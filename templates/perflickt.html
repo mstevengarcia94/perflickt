@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Perflickt - Find The Ideal Flick to Watch!</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <script src="../static/jquery-3.1.1.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="../static/animations.css">
+        <link rel="stylesheet" type="text/css" href="../static/style.css">
+        <link href="https://fonts.googleapis.com/css?family=Comfortaa|Quattrocento+Sans:400,700" rel="stylesheet">
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    </head>
+    <body id="bod">
+        <!-- top navbar -->
+        <nav class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container-fluid">
+
+                <!-- brand -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mainNavBar">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="#">perflickt</a>
+                </div>
+
+                <div class="collapse navbar-collapse" id="mainNavBar">
+                    <ul class="nav navbar-nav">
+                        <li><a href="http://mgarcia.me/">back</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+        <div id="shade"></div>
+        
+        <div id="loading" class="col-xs-12 col-sm-6 col-sm-offset-3 col-md-6 col-md-offset-3 no-display no-show center">
+            <div id="loading-thumbnail" class="thumbnail">
+                <div id="load-animation">
+                    <img id="big-cog" src="../static/bigcog.png" />
+                    <img id="baby-cog" src="../static/babycog.png" />
+                </div>
+                <h2 id="load-text"><strong>working the perflickt magic...</strong></h2>
+            </div>
+        </div>
+        
+        <div id="result" class="col-xs-12 col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4 no-display no-show center">
+            <div id="result-thumbnail" class="thumbnail">
+            </div>
+        </div>
+        
+        <!-- the find flick button -->
+        <div id="bottom-bar" class="center">
+            <p id="btm-btn-container" type="button" class="center">
+                <a id="perflickt-btn" class="btn btn-success" role="button" onclick="perflickt()">Find My Perfect Flick!</a>
+            </p>
+        </div>
+
+        <!-- jumbotron -->
+        <div class="bg"></div>
+        <div class="jumbotron">
+            <div class="container" id="jumbo-copy">
+                <img id="perflickt-logo" src="../static/film.png"/>
+                <h1 id="project-name">{{ project }}</h1>
+                <p>pick a flickin' movie to watch tonight!</p>
+            </div>
+        </div>
+
+        <!-- main content -->
+        <div class="container-fluid content center" id="descrip">
+            <h1 class="title">Just tell us how you feel about some of these films.</h1>
+            <h3 id="descrip-copy">Have you watched them? Want to watch them? <em>Wouldn't</em> want to watch them? Give your input on a few movies, and when you feel ready, click "Find My Perfect Flick". Based on your preferences, we give our expert opinion on what you should watch tonight!</h3>
+            <h2 class="title">Happy Perflicking!</h2>
+        </div>
+
+        <div class="container-fluid content" id="movies">
+            <h2 class="title center">Top 250 Movies according to IMDB (in no particular order)</h2>
+            <div class="row" id="movie-wrapper">
+            <!-- where the movies get generated -->
+                
+            </div>
+        </div>
+        <div class="container-fluid content center" id="footer">
+            <strong>© 2016 Michael Garcia</strong>
+        </div>
+        <script src="../static/perflickt.js"></script>
+    </body>
+</html>
