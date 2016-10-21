@@ -47,6 +47,7 @@ body {
 .detail-view {
     position: absolute;
     top: 100%;
+    width: 100%;
     opacity: 0;
     padding: 0em 1em 0em 0.7em;
     transition: all 0.75s;
@@ -62,6 +63,7 @@ body {
     background-color: #eeeeee;
     opacity: 1;
     top: 0%;
+    width: 100%;
 }
 
 .title {
