@@ -4,10 +4,10 @@ body {
 }
 
 .bg {
-    background: url(http://screencrush.com/442/files/2016/03/o-THEATER-SEATS-facebook.jpg) no-repeat center center;
+    background: url(theatre_seats.jpg) no-repeat center center;
     position: fixed;
     width: 100%;
-    height: 750px;
+    height: 180%;
     top: 0;
     left: 0;
     z-index: -1;
