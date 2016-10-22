@@ -86,7 +86,6 @@ def get_movie_from_year(source_url, year, fw, tab_level, start, rated):
             page_count += 1
         else:
             # get a random top movie from specified genre
-            print("LMFAO took 2 long. here's a random movie from the highest picked genre u chose")
             stop_index = len(first_page_movies)-1
             rando = randint(0, stop_index)
             href = first_page_movies[rando]
