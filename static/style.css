@@ -4,7 +4,7 @@ body {
 }
 
 .bg {
-    background: url(theatre_seats.jpg) no-repeat center center;
+    background: url(theatre_seats.jpg) no-repeat top center;
     position: fixed;
     width: 100%;
     height: 180%;
