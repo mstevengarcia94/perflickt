@@ -1,0 +1,4897 @@
+{"movies" : [
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BODU4MjU4NjIwNl5BMl5BanBnXkFtZTgwMDU2MjEyMDE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Shawshank Redemption (1994) ",
+		"movie_year" : "1994",
+		"genres" : [
+			"Crime",
+			"Drama"
+		],
+		"directors" : [
+			"Frank Darabont"
+		],
+		"stars" : [
+			"Tim Robbins",
+			"Morgan Freeman",
+			"Bob Gunton"
+		],
+		"summary" : "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+		"link" : "http://www.imdb.com/title/tt0111161/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_1"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMmE4MjdiZjctMjU3Ni00ZTM5LWIxNGMtNjgzZjQ2Y2Y3ZTliXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Godfather (1972) ",
+		"movie_year" : "1972",
+		"genres" : [
+			"Crime",
+			"Drama"
+		],
+		"directors" : [
+			"Francis Ford Coppola"
+		],
+		"stars" : [
+			"Marlon Brando",
+			"Al Pacino",
+			"James Caan"
+		],
+		"summary" : "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+		"link" : "http://www.imdb.com/title/tt0068646/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_2"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BNDVjZjgxNTgtMGNhMC00YWU0LTg0YTQtNTkxNzBjMDBkNWYyXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY268_CR3,0,182,268_AL_.jpg",
+		"movie_title" : "The Godfather: Part II (1974) ",
+		"movie_year" : "1974",
+		"genres" : [
+			"Crime",
+			"Drama"
+		],
+		"directors" : [
+			"Francis Ford Coppola"
+		],
+		"stars" : [
+			"Al Pacino",
+			"Robert De Niro",
+			"Robert Duvall"
+		],
+		"summary" : "The early life and career of Vito Corleone in 1920s New York is portrayed while his son, Michael, expands and tightens his grip on his crime syndicate stretching from Lake Tahoe, Nevada to pre-revolution 1958 Cuba.",
+		"link" : "http://www.imdb.com/title/tt0071562/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_3"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Dark Knight (2008) ",
+		"movie_year" : "2008",
+		"genres" : [
+			"Action",
+			"Crime",
+			"Drama"
+		],
+		"directors" : [
+			"Christopher Nolan"
+		],
+		"stars" : [
+			"Christian Bale",
+			"Heath Ledger",
+			"Aaron Eckhart"
+		],
+		"summary" : "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, the caped crusader must come to terms with one of the greatest psychological tests of his ability to fight injustice.",
+		"link" : "http://www.imdb.com/title/tt0468569/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_4"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BODQwOTc5MDM2N15BMl5BanBnXkFtZTcwODQxNTEzNA@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "12 Angry Men (1957) ",
+		"movie_year" : "1957",
+		"genres" : [
+			"Crime",
+			"Drama"
+		],
+		"directors" : [
+			"Sidney Lumet"
+		],
+		"stars" : [
+			"Henry Fonda",
+			"Lee J. Cobb",
+			"Martin Balsam"
+		],
+		"summary" : "A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence.",
+		"link" : "http://www.imdb.com/title/tt0050083/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_5"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMzMwMTM4MDU2N15BMl5BanBnXkFtZTgwMzQ0MjMxMDE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Schindler's List (1993) ",
+		"movie_year" : "1993",
+		"genres" : [
+			"Biography",
+			"Drama",
+			"History"
+		],
+		"directors" : [
+			"Steven Spielberg"
+		],
+		"stars" : [
+			"Liam Neeson",
+			"Ralph Fiennes",
+			"Ben Kingsley"
+		],
+		"summary" : "In German-occupied Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazi Germans.",
+		"link" : "http://www.imdb.com/title/tt0108052/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_6"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxMTA5OTAzMl5BMl5BanBnXkFtZTgwNjA5MDc3NjE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Pulp Fiction (1994) ",
+		"movie_year" : "1994",
+		"genres" : [
+			"Crime",
+			"Drama"
+		],
+		"directors" : [
+			"Quentin Tarantino"
+		],
+		"stars" : [
+			"John Travolta",
+			"Uma Thurman",
+			"Samuel L. Jackson"
+		],
+		"summary" : "The lives of two mob hit men, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+		"link" : "http://www.imdb.com/title/tt0110912/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_7"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE4MjA1NTAyMV5BMl5BanBnXkFtZTcwNzM1NDQyMQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Lord of the Rings: The Return of the King (2003) ",
+		"movie_year" : "2003",
+		"genres" : [
+			"Action",
+			"Adventure",
+			"Drama"
+		],
+		"directors" : [
+			"Peter Jackson"
+		],
+		"stars" : [
+			"Elijah Wood",
+			"Viggo Mortensen",
+			"Ian McKellen"
+		],
+		"summary" : "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+		"link" : "http://www.imdb.com/title/tt0167260/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_8"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BOTQ5NDI3MTI4MF5BMl5BanBnXkFtZTgwNDQ4ODE5MDE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Good, the Bad and the Ugly (1966) ",
+		"movie_year" : "1966",
+		"genres" : [
+			"Western"
+		],
+		"directors" : [
+			"Sergio Leone"
+		],
+		"stars" : [
+			"Clint Eastwood",
+			"Eli Wallach",
+			"Lee Van Cleef"
+		],
+		"summary" : "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+		"link" : "http://www.imdb.com/title/tt0060196/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_9"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BNGM2NjQxZTAtMmU5My00YTk5LWFmOWMtYjZlYzk4YzMwNjFlXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Fight Club (1999) ",
+		"movie_year" : "1999",
+		"genres" : [
+			"Drama"
+		],
+		"directors" : [
+			"David Fincher"
+		],
+		"stars" : [
+			"Brad Pitt",
+			"Edward Norton",
+			"Meat Loaf"
+		],
+		"summary" : "An insomniac office worker, looking for a way to change his life, crosses paths with a devil-may-care soap maker, forming an underground fight club that evolves into something much, much more.",
+		"link" : "http://www.imdb.com/title/tt0137523/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_10"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BNTEyMjAwMDU1OV5BMl5BanBnXkFtZTcwNDQyNTkxMw@@._V1_UY268_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Lord of the Rings: The Fellowship of the Ring (2001) ",
+		"movie_year" : "2001",
+		"genres" : [
+			"Action",
+			"Adventure",
+			"Drama"
+		],
+		"directors" : [
+			"Peter Jackson"
+		],
+		"stars" : [
+			"Elijah Wood",
+			"Ian McKellen",
+			"Orlando Bloom"
+		],
+		"summary" : "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle Earth from the Dark Lord Sauron.",
+		"link" : "http://www.imdb.com/title/tt0120737/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_11"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BYmViY2M2MTYtY2MzOS00YjQ1LWIzYmEtOTBiNjhlMGM0NjZjXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Star Wars: Episode V - The Empire Strikes Back (1980) ",
+		"movie_year" : "1980",
+		"genres" : [
+			"Action",
+			"Adventure",
+			"Fantasy"
+		],
+		"directors" : [
+			"Irvin Kershner"
+		],
+		"stars" : [
+			"Mark Hamill",
+			"Harrison Ford",
+			"Carrie Fisher"
+		],
+		"summary" : "After the rebels have been brutally overpowered by the Empire on their newly established base, Luke Skywalker takes advanced Jedi training with Master Yoda, while his friends are pursued by Darth Vader as part of his plan to capture Luke.",
+		"link" : "http://www.imdb.com/title/tt0080684/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_12"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BYThjM2MwZGMtMzg3Ny00NGRkLWE4M2EtYTBiNWMzOTY0YTI4XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UY268_CR10,0,182,268_AL_.jpg",
+		"movie_title" : "Forrest Gump (1994) ",
+		"movie_year" : "1994",
+		"genres" : [
+			"Comedy",
+			"Drama"
+		],
+		"directors" : [
+			"Robert Zemeckis"
+		],
+		"stars" : [
+			"Tom Hanks",
+			"Robin Wright",
+			"Gary Sinise"
+		],
+		"summary" : "Forrest Gump, while not intelligent, has accidentally been present at many historic moments, but his true love, Jenny Curran, eludes him.",
+		"link" : "http://www.imdb.com/title/tt0109830/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_13"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Inception (2010) ",
+		"movie_year" : "2010",
+		"genres" : [
+			"Action",
+			"Adventure",
+			"Sci-Fi"
+		],
+		"directors" : [
+			"Christopher Nolan"
+		],
+		"stars" : [
+			"Leonardo DiCaprio",
+			"Joseph Gordon-Levitt",
+			"Ellen Page"
+		],
+		"summary" : "A thief, who steals corporate secrets through use of dream-sharing technology, is given the inverse task of planting an idea into the mind of a CEO.",
+		"link" : "http://www.imdb.com/title/tt1375666/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_14"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTAyNDU0NjY4NTheQTJeQWpwZ15BbWU2MDk4MTY2Nw@@._V1_UY268_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Lord of the Rings: The Two Towers (2002) ",
+		"movie_year" : "2002",
+		"genres" : [
+			"Action",
+			"Adventure",
+			"Drama"
+		],
+		"directors" : [
+			"Peter Jackson"
+		],
+		"stars" : [
+			"Elijah Wood",
+			"Ian McKellen",
+			"Viggo Mortensen"
+		],
+		"summary" : "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+		"link" : "http://www.imdb.com/title/tt0167261/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_15"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BYmJkODkwOTItZThjZC00MTE0LWIxNzQtYTM3MmQwMGI1OWFiXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "One Flew Over the Cuckoo's Nest (1975) ",
+		"movie_year" : "1975",
+		"genres" : [
+			"Drama"
+		],
+		"directors" : [
+			"Milos Forman"
+		],
+		"stars" : [
+			"Jack Nicholson",
+			"Louise Fletcher",
+			"Michael Berryman"
+		],
+		"summary" : "A criminal pleads insanity after getting into trouble again and once in the mental institution rebels against the oppressive nurse and rallies up the scared patients.",
+		"link" : "http://www.imdb.com/title/tt0073486/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_16"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY2OTE5MzQ3MV5BMl5BanBnXkFtZTgwMTY2NTYxMTE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Goodfellas (1990) ",
+		"movie_year" : "1990",
+		"genres" : [
+			"Biography",
+			"Crime",
+			"Drama"
+		],
+		"directors" : [
+			"Martin Scorsese"
+		],
+		"stars" : [
+			"Robert De Niro",
+			"Ray Liotta",
+			"Joe Pesci"
+		],
+		"summary" : "Henry Hill and his friends work their way up through the mob hierarchy.",
+		"link" : "http://www.imdb.com/title/tt0099685/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_17"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMDMyMmQ5YzgtYWMxOC00OTU0LWIwZjEtZWUwYTY5MjVkZjhhXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UY268_CR6,0,182,268_AL_.jpg",
+		"movie_title" : "The Matrix (1999) ",
+		"movie_year" : "1999",
+		"genres" : [
+			"Action",
+			"Sci-Fi"
+		],
+		"directors" : [
+			"Lana Wachowski",
+			"Lilly Wachowski"
+		],
+		"stars" : [
+			"Keanu Reeves",
+			"Laurence Fishburne",
+			"Carrie-Anne Moss"
+		],
+		"summary" : "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+		"link" : "http://www.imdb.com/title/tt0133093/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_18"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc5MDY1MjU5MF5BMl5BanBnXkFtZTgwNDM2OTE4MzE@._V1_UY268_CR4,0,182,268_AL_.jpg",
+		"movie_title" : "Seven Samurai (1954) ",
+		"movie_year" : "1954",
+		"genres" : [
+			"Action",
+			"Adventure",
+			"Drama"
+		],
+		"directors" : [
+			"Akira Kurosawa"
+		],
+		"stars" : [
+			"Toshirô Mifune",
+			"Takashi Shimura",
+			"Keiko Tsushima"
+		],
+		"summary" : "A poor village under attack by bandits recruits seven unemployed samurai to help them defend themselves.",
+		"link" : "http://www.imdb.com/title/tt0047478/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_19"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BOTIyMDY2NGQtOGJjNi00OTk4LWFhMDgtYmE3M2NiYzM0YTVmXkEyXkFqcGdeQXVyNTU1NTcwOTk@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Star Wars: Episode IV - A New Hope (1977) ",
+		"movie_year" : "1977",
+		"genres" : [
+			"Action",
+			"Adventure",
+			"Fantasy"
+		],
+		"directors" : [
+			"George Lucas"
+		],
+		"stars" : [
+			"Mark Hamill",
+			"Harrison Ford",
+			"Carrie Fisher"
+		],
+		"summary" : "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a wookiee and two droids to save the galaxy from the Empire's world-destroying battle-station, while also attempting to rescue Princess Leia from the evil Darth Vader.",
+		"link" : "http://www.imdb.com/title/tt0076759/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_20"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4ODQ3ODkzNV5BMl5BanBnXkFtZTYwOTc4NDI3._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "City of God (2002) ",
+		"movie_year" : "2002",
+		"genres" : [
+			"Crime",
+			"Drama"
+		],
+		"directors" : [
+			"Fernando Meirelles",
+			"Kátia Lund"
+		],
+		"stars" : [
+			"Alexandre Rodrigues",
+			"Matheus Nachtergaele",
+			"Leandro Firmino"
+		],
+		"summary" : "Two boys growing up in a violent neighborhood of Rio de Janeiro take different paths: one becomes a photographer, the other a drug dealer.",
+		"link" : "http://www.imdb.com/title/tt0317248/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_21"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQwNTU3MTE4NF5BMl5BanBnXkFtZTcwOTgxNDM2Mg@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Se7en (1995) ",
+		"movie_year" : "1995",
+		"genres" : [
+			"Crime",
+			"Drama",
+			"Mystery"
+		],
+		"directors" : [
+			"David Fincher"
+		],
+		"stars" : [
+			"Morgan Freeman",
+			"Brad Pitt",
+			"Kevin Spacey"
+		],
+		"summary" : "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his modus operandi.",
+		"link" : "http://www.imdb.com/title/tt0114369/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_22"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2NzkzMDI4OF5BMl5BanBnXkFtZTcwMDA0NzE1NA@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Silence of the Lambs (1991) ",
+		"movie_year" : "1991",
+		"genres" : [
+			"Crime",
+			"Drama",
+			"Thriller"
+		],
+		"directors" : [
+			"Jonathan Demme"
+		],
+		"stars" : [
+			"Jodie Foster",
+			"Anthony Hopkins",
+			"Lawrence A. Bonney"
+		],
+		"summary" : "A young F.B.I. cadet must confide in an incarcerated and manipulative killer to receive his help on catching another serial killer who skins his victims.",
+		"link" : "http://www.imdb.com/title/tt0102926/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_23"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMzMzY5NDc4M15BMl5BanBnXkFtZTcwMzc4NjIxNw@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "It's a Wonderful Life (1946) ",
+		"movie_year" : "1946",
+		"genres" : [
+			"Drama",
+			"Family",
+			"Fantasy"
+		],
+		"directors" : [
+			"Frank Capra"
+		],
+		"stars" : [
+			"James Stewart",
+			"Donna Reed",
+			"Lionel Barrymore"
+		],
+		"summary" : "An angel helps a compassionate but despairingly frustrated businessman by showing what life would have been like if he never existed.",
+		"link" : "http://www.imdb.com/title/tt0038650/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_24"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMzI1MjI5MDQyOV5BMl5BanBnXkFtZTcwNzE4Mjg3NA@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Usual Suspects (1995) ",
+		"movie_year" : "1995",
+		"genres" : [
+			"Crime",
+			"Drama",
+			"Mystery"
+		],
+		"directors" : [
+			"Bryan Singer"
+		],
+		"stars" : [
+			"Kevin Spacey",
+			"Gabriel Byrne",
+			"Chazz Palminteri"
+		],
+		"summary" : "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which begin when five criminals meet at a seemingly random police lineup.",
+		"link" : "http://www.imdb.com/title/tt0114814/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_25"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Life Is Beautiful (1997) ",
+		"movie_year" : "1997",
+		"genres" : [
+			"Comedy",
+			"Drama",
+			"War"
+		],
+		"directors" : [
+			"Roberto Benigni"
+		],
+		"stars" : [
+			"Roberto Benigni",
+			"Nicoletta Braschi",
+			"Giorgio Cantarini"
+		],
+		"summary" : "When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor and imagination to protect his son from the dangers around their camp.",
+		"link" : "http://www.imdb.com/title/tt0118799/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_26"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgzMzg4MDkwNF5BMl5BanBnXkFtZTcwODAwNDg3OA@@._V1_UY268_CR3,0,182,268_AL_.jpg",
+		"movie_title" : "Léon: The Professional (1994) ",
+		"movie_year" : "1994",
+		"genres" : [
+			"Crime",
+			"Drama",
+			"Thriller"
+		],
+		"directors" : [
+			"Luc Besson"
+		],
+		"stars" : [
+			"Jean Reno",
+			"Gary Oldman",
+			"Natalie Portman"
+		],
+		"summary" : "Mathilda, a 12-year-old girl, is reluctantly taken in by Léon, a professional assassin, after her family is murdered. Léon and Mathilda form an unusual relationship, as she becomes his protégée and learns the assassin's trade.",
+		"link" : "http://www.imdb.com/title/tt0110413/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_27"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjYxMDcyMzIzNl5BMl5BanBnXkFtZTYwNDg2MDU3._V1_UY268_CR4,0,182,268_AL_.jpg",
+		"movie_title" : "Spirited Away (2001) ",
+		"movie_year" : "2001",
+		"genres" : [
+			"Animation",
+			"Adventure",
+			"Family"
+		],
+		"directors" : [
+			"Hayao Miyazaki"
+		],
+		"stars" : [
+			"Daveigh Chase",
+			"Suzanne Pleshette",
+			"Miyu Irino"
+		],
+		"summary" : "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
+		"link" : "http://www.imdb.com/title/tt0245429/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_28"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UY268_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Saving Private Ryan (1998) ",
+		"movie_year" : "1998",
+		"genres" : [
+			"Action",
+			"Drama",
+			"War"
+		],
+		"directors" : [
+			"Steven Spielberg"
+		],
+		"stars" : [
+			"Tom Hanks",
+			"Matt Damon",
+			"Tom Sizemore"
+		],
+		"summary" : "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+		"link" : "http://www.imdb.com/title/tt0120815/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_29"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BYjFiOTlmMzgtOGZlYi00NjY0LThmMzEtNmQ0OTgxNGViOTZmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Once Upon a Time in the West (1968) ",
+		"movie_year" : "1968",
+		"genres" : [
+			"Western"
+		],
+		"directors" : [
+			"Sergio Leone"
+		],
+		"stars" : [
+			"Henry Fonda",
+			"Charles Bronson",
+			"Claudia Cardinale"
+		],
+		"summary" : "A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad.",
+		"link" : "http://www.imdb.com/title/tt0064116/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_30"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BZjA0MTM4MTQtNzY5MC00NzY3LWI1ZTgtYzcxMjkyMzU4MDZiXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "American History X (1998) ",
+		"movie_year" : "1998",
+		"genres" : [
+			"Crime",
+			"Drama"
+		],
+		"directors" : [
+			"Tony Kaye"
+		],
+		"stars" : [
+			"Edward Norton",
+			"Edward Furlong",
+			"Beverly D'Angelo"
+		],
+		"summary" : "A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.",
+		"link" : "http://www.imdb.com/title/tt0120586/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_31"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQwNDYyNTk2N15BMl5BanBnXkFtZTgwMjQ0OTMyMjE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Casablanca (1942) ",
+		"movie_year" : "1942",
+		"genres" : [
+			"Drama",
+			"Romance",
+			"War"
+		],
+		"directors" : [
+			"Michael Curtiz"
+		],
+		"stars" : [
+			"Humphrey Bogart",
+			"Ingrid Bergman",
+			"Paul Henreid"
+		],
+		"summary" : "In Casablanca, Morocco in December 1941, a cynical American expatriate meets a former lover, with unforeseen complications.",
+		"link" : "http://www.imdb.com/title/tt0034583/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_32"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxNTU4MzY4MF5BMl5BanBnXkFtZTgwMzM4ODI3MjE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Interstellar (2014) ",
+		"movie_year" : "2014",
+		"genres" : [
+			"Adventure",
+			"Drama",
+			"Sci-Fi"
+		],
+		"directors" : [
+			"Christopher Nolan"
+		],
+		"stars" : [
+			"Matthew McConaughey",
+			"Anne Hathaway",
+			"Jessica Chastain"
+		],
+		"summary" : "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+		"link" : "http://www.imdb.com/title/tt0816692/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_33"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMDI3OWRmOTEtOWJhYi00N2JkLTgwNGItMjdkN2U0NjFiZTYwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Psycho (1960) ",
+		"movie_year" : "1960",
+		"genres" : [
+			"Horror",
+			"Mystery",
+			"Thriller"
+		],
+		"directors" : [
+			"Alfred Hitchcock"
+		],
+		"stars" : [
+			"Anthony Perkins",
+			"Janet Leigh",
+			"Vera Miles"
+		],
+		"summary" : "A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.",
+		"link" : "http://www.imdb.com/title/tt0054215/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_34"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA3NDQ5MDMzOV5BMl5BanBnXkFtZTgwODY2MjcyMjE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "City Lights (1931) ",
+		"movie_year" : "1931",
+		"genres" : [
+			"Comedy",
+			"Drama",
+			"Romance"
+		],
+		"directors" : [
+			"Charles Chaplin"
+		],
+		"stars" : [
+			"Charles Chaplin",
+			"Virginia Cherrill",
+			"Florence Lee"
+		],
+		"summary" : "With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically.",
+		"link" : "http://www.imdb.com/title/tt0021749/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_35"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA0ODEzMTc1Nl5BMl5BanBnXkFtZTcwODM2MjAxNA@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Raiders of the Lost Ark (1981) ",
+		"movie_year" : "1981",
+		"genres" : [
+			"Action",
+			"Adventure"
+		],
+		"directors" : [
+			"Steven Spielberg"
+		],
+		"stars" : [
+			"Harrison Ford",
+			"Karen Allen",
+			"Paul Freeman"
+		],
+		"summary" : "Archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis.",
+		"link" : "http://www.imdb.com/title/tt0082971/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_36"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Green Mile (1999) ",
+		"movie_year" : "1999",
+		"genres" : [
+			"Crime",
+			"Drama",
+			"Fantasy"
+		],
+		"directors" : [
+			"Frank Darabont"
+		],
+		"stars" : [
+			"Tom Hanks",
+			"Michael Clarke Duncan",
+			"David Morse"
+		],
+		"summary" : "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
+		"link" : "http://www.imdb.com/title/tt0120689/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_37"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Intouchables (2011) ",
+		"movie_year" : "2011",
+		"genres" : [
+			"Biography",
+			"Comedy",
+			"Drama"
+		],
+		"directors" : [
+			"Olivier Nakache",
+			"Eric Toledano"
+		],
+		"stars" : [
+			"François Cluzet",
+			"Omar Sy",
+			"Anne Le Ny"
+		],
+		"summary" : "After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.",
+		"link" : "http://www.imdb.com/title/tt1675434/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_38"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAyMTkxNjI5OF5BMl5BanBnXkFtZTYwMjI2MjA5._V1_UY268_CR7,0,182,268_AL_.jpg",
+		"movie_title" : "Modern Times (1936) ",
+		"movie_year" : "1936",
+		"genres" : [
+			"Comedy",
+			"Drama",
+			"Family"
+		],
+		"directors" : [
+			"Charles Chaplin"
+		],
+		"stars" : [
+			"Charles Chaplin",
+			"Paulette Goddard",
+			"Henry Bergman"
+		],
+		"summary" : "The Tramp struggles to live in modern industrial society with the help of a young homeless woman.",
+		"link" : "http://www.imdb.com/title/tt0027977/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_39"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY268_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Rear Window (1954) ",
+		"movie_year" : "1954",
+		"genres" : [
+			"Mystery",
+			"Thriller"
+		],
+		"directors" : [
+			"Alfred Hitchcock"
+		],
+		"stars" : [
+			"James Stewart",
+			"Grace Kelly",
+			"Wendell Corey"
+		],
+		"summary" : "A wheelchair-bound photographer spies on his neighbours from his apartment window and becomes convinced one of them has committed murder.",
+		"link" : "http://www.imdb.com/title/tt0047396/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_40"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BZDM2YjYwYWMtMWZlNi00ZDQxLWExMDctMDAzNzQ0OTkzZjljXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Terminator 2: Judgment Day (1991) ",
+		"movie_year" : "1991",
+		"genres" : [
+			"Action",
+			"Sci-Fi",
+			"Thriller"
+		],
+		"directors" : [
+			"James Cameron"
+		],
+		"stars" : [
+			"Arnold Schwarzenegger",
+			"Linda Hamilton",
+			"Edward Furlong"
+		],
+		"summary" : "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her young son, John Connor, from a more advanced cyborg, made out of liquid metal.",
+		"link" : "http://www.imdb.com/title/tt0103064/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_41"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Departed (2006) ",
+		"movie_year" : "2006",
+		"genres" : [
+			"Crime",
+			"Drama",
+			"Thriller"
+		],
+		"directors" : [
+			"Martin Scorsese"
+		],
+		"stars" : [
+			"Leonardo DiCaprio",
+			"Matt Damon",
+			"Jack Nicholson"
+		],
+		"summary" : "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+		"link" : "http://www.imdb.com/title/tt0407887/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_42"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc4OTkyOTA3OF5BMl5BanBnXkFtZTYwMDIxNjk5._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Pianist (2002) ",
+		"movie_year" : "2002",
+		"genres" : [
+			"Biography",
+			"Drama",
+			"War"
+		],
+		"directors" : [
+			"Roman Polanski"
+		],
+		"stars" : [
+			"Adrien Brody",
+			"Thomas Kretschmann",
+			"Frank Finlay"
+		],
+		"summary" : "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",
+		"link" : "http://www.imdb.com/title/tt0253474/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_43"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Back to the Future (1985) ",
+		"movie_year" : "1985",
+		"genres" : [
+			"Adventure",
+			"Comedy",
+			"Sci-Fi"
+		],
+		"directors" : [
+			"Robert Zemeckis"
+		],
+		"stars" : [
+			"Michael J. Fox",
+			"Christopher Lloyd",
+			"Lea Thompson"
+		],
+		"summary" : "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
+		"link" : "http://www.imdb.com/title/tt0088763/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_44"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU4OTQ3MDUyMV5BMl5BanBnXkFtZTgwOTA2MjU0MjE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Whiplash (2014) ",
+		"movie_year" : "2014",
+		"genres" : [
+			"Drama",
+			"Music"
+		],
+		"directors" : [
+			"Damien Chazelle"
+		],
+		"stars" : [
+			"Miles Teller",
+			"J.K. Simmons",
+			"Melissa Benoist"
+		],
+		"summary" : "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+		"link" : "http://www.imdb.com/title/tt2582802/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_45"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgwMzQzNTQ1Ml5BMl5BanBnXkFtZTgwMDY2NTYxMTE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Gladiator (2000) ",
+		"movie_year" : "2000",
+		"genres" : [
+			"Action",
+			"Adventure",
+			"Drama"
+		],
+		"directors" : [
+			"Ridley Scott"
+		],
+		"stars" : [
+			"Russell Crowe",
+			"Joaquin Phoenix",
+			"Connie Nielsen"
+		],
+		"summary" : "When a Roman general is betrayed and his family murdered by an emperor's corrupt son, he comes to Rome as a gladiator to seek revenge.",
+		"link" : "http://www.imdb.com/title/tt0172495/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_46"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BNThiYjM3MzktMDg3Yy00ZWQ3LTk3YWEtN2M0YmNmNWEwYTE3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY268_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Memento (2000) ",
+		"movie_year" : "2000",
+		"genres" : [
+			"Mystery",
+			"Thriller"
+		],
+		"directors" : [
+			"Christopher Nolan"
+		],
+		"stars" : [
+			"Guy Pearce",
+			"Carrie-Anne Moss",
+			"Joe Pantoliano"
+		],
+		"summary" : "A man juggles searching for his wife's murderer and keeping his short-term memory loss from being an obstacle.",
+		"link" : "http://www.imdb.com/title/tt0209144/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_47"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BYWNjNjZjYmMtOTRjOC00ZGIwLWI2YzEtMjkxNTAzODkzZDRlXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UY268_CR1,0,182,268_AL_.jpg",
+		"movie_title" : "Apocalypse Now (1979) ",
+		"movie_year" : "1979",
+		"genres" : [
+			"Drama",
+			"War"
+		],
+		"directors" : [
+			"Francis Ford Coppola"
+		],
+		"stars" : [
+			"Martin Sheen",
+			"Marlon Brando",
+			"Robert Duvall"
+		],
+		"summary" : "During the Vietnam War, Captain Willard is sent on a dangerous mission into Cambodia to assassinate a renegade colonel who has set himself up as a god among a local tribe.",
+		"link" : "http://www.imdb.com/title/tt0078788/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_48"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Prestige (2006) ",
+		"movie_year" : "2006",
+		"genres" : [
+			"Drama",
+			"Mystery",
+			"Sci-Fi"
+		],
+		"directors" : [
+			"Christopher Nolan"
+		],
+		"stars" : [
+			"Christian Bale",
+			"Hugh Jackman",
+			"Scarlett Johansson"
+		],
+		"summary" : "Two stage magicians engage in competitive one-upmanship in an attempt to create the ultimate stage illusion.",
+		"link" : "http://www.imdb.com/title/tt0482571/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_49"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEyMzgwNTUzMl5BMl5BanBnXkFtZTcwNTMxMzM3Ng@@._V1_UY268_CR12,0,182,268_AL_.jpg",
+		"movie_title" : "The Lion King (1994) ",
+		"movie_year" : "1994",
+		"genres" : [
+			"Animation",
+			"Adventure",
+			"Drama"
+		],
+		"directors" : [
+			"Roger Allers",
+			"Rob Minkoff"
+		],
+		"stars" : [
+			"Matthew Broderick",
+			"Jeremy Irons",
+			"James Earl Jones"
+		],
+		"summary" : "Lion cub and future king Simba searches for his identity. His eagerness to please others and penchant for testing his boundaries sometimes gets him into trouble.",
+		"link" : "http://www.imdb.com/title/tt0110357/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_50"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BOTFiM2RlOGUtYjExYy00YjFmLWFjYzgtM2YwNDU1NmEyMzRlXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964) ",
+		"movie_year" : "1964",
+		"genres" : [
+			"Comedy"
+		],
+		"directors" : [
+			"Stanley Kubrick"
+		],
+		"stars" : [
+			"Peter Sellers",
+			"George C. Scott",
+			"Sterling Hayden"
+		],
+		"summary" : "An insane general triggers a path to nuclear holocaust that a war room full of politicians and generals frantically try to stop.",
+		"link" : "http://www.imdb.com/title/tt0057012/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_51"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BNDNhN2IxZWItNGEwYS00ZDNhLThiM2UtODU3NWJlZjBkYjQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY268_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Alien (1979) ",
+		"movie_year" : "1979",
+		"genres" : [
+			"Horror",
+			"Sci-Fi"
+		],
+		"directors" : [
+			"Ridley Scott"
+		],
+		"stars" : [
+			"Sigourney Weaver",
+			"Tom Skerritt",
+			"John Hurt"
+		],
+		"summary" : "After a space merchant vessel perceives an unknown transmission as distress call, their landing on the source moon finds one of the crew attacked by a mysterious lifeform. Continuing their journey back to Earth with the attacked crew having recovered and the critter deceased, they soon realize that its life cycle has merely begun.",
+		"link" : "http://www.imdb.com/title/tt0078748/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_52"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc3NDYzODAwNV5BMl5BanBnXkFtZTgwODg1MTczMTE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Sunset Blvd. (1950) ",
+		"movie_year" : "1950",
+		"genres" : [
+			"Drama",
+			"Film-Noir"
+		],
+		"directors" : [
+			"Billy Wilder"
+		],
+		"stars" : [
+			"William Holden",
+			"Gloria Swanson",
+			"Erich von Stroheim"
+		],
+		"summary" : "A hack screenwriter writes a screenplay for a former silent-film star who has faded into Hollywood obscurity.",
+		"link" : "http://www.imdb.com/title/tt0043014/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_53"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5NDAwMDgzOV5BMl5BanBnXkFtZTgwNDI2MjA0MjE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Great Dictator (1940) ",
+		"movie_year" : "1940",
+		"genres" : [
+			"Comedy",
+			"Drama",
+			"War"
+		],
+		"directors" : [
+			"Charles Chaplin"
+		],
+		"stars" : [
+			"Charles Chaplin",
+			"Paulette Goddard",
+			"Jack Oakie"
+		],
+		"summary" : "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",
+		"link" : "http://www.imdb.com/title/tt0032553/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_54"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BNDUzNjYwNDYyNl5BMl5BanBnXkFtZTcwNjU3ODQ0MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Lives of Others (2006) ",
+		"movie_year" : "2006",
+		"genres" : [
+			"Drama",
+			"Thriller"
+		],
+		"directors" : [
+			"Florian Henckel von Donnersmarck"
+		],
+		"stars" : [
+			"Ulrich Mühe",
+			"Martina Gedeck",
+			"Sebastian Koch"
+		],
+		"summary" : "In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives.",
+		"link" : "http://www.imdb.com/title/tt0405094/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_55"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIzMTgzOTEwOF5BMl5BanBnXkFtZTgwNTUxNjcxMTE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Cinema Paradiso (1988) ",
+		"movie_year" : "1988",
+		"genres" : [
+			"Drama"
+		],
+		"directors" : [
+			"Giuseppe Tornatore"
+		],
+		"stars" : [
+			"Philippe Noiret",
+			"Enzo Cannavale",
+			"Antonella Attili"
+		],
+		"summary" : "A filmmaker recalls his childhood, when he fell in love with the movies at his village's theater and formed a deep friendship with the theater's projectionist.",
+		"link" : "http://www.imdb.com/title/tt0095765/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_56"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BOTI5Nzc0OTMtYzBkMS00NjkxLThmM2UtNjM2ODgxN2M5NjNkXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Paths of Glory (1957) ",
+		"movie_year" : "1957",
+		"genres" : [
+			"Drama",
+			"War"
+		],
+		"directors" : [
+			"Stanley Kubrick"
+		],
+		"stars" : [
+			"Kirk Douglas",
+			"Ralph Meeker",
+			"Adolphe Menjou"
+		],
+		"summary" : "After refusing to attack an enemy position, a general accuses the soldiers of cowardice and their commanding officer must defend them.",
+		"link" : "http://www.imdb.com/title/tt0050825/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_57"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Django Unchained (2012) ",
+		"movie_year" : "2012",
+		"genres" : [
+			"Drama",
+			"Western"
+		],
+		"directors" : [
+			"Quentin Tarantino"
+		],
+		"stars" : [
+			"Jamie Foxx",
+			"Christoph Waltz",
+			"Leonardo DiCaprio"
+		],
+		"summary" : "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+		"link" : "http://www.imdb.com/title/tt1853728/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_58"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BODMxMjE3NTA4Ml5BMl5BanBnXkFtZTgwNDc0NTIxMDE@._V1_UY268_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Shining (1980) ",
+		"movie_year" : "1980",
+		"genres" : [
+			"Drama",
+			"Horror"
+		],
+		"directors" : [
+			"Stanley Kubrick"
+		],
+		"stars" : [
+			"Jack Nicholson",
+			"Shelley Duvall",
+			"Danny Lloyd"
+		],
+		"summary" : "A family heads to an isolated hotel for the winter where an evil and spiritual presence influences the father into violence, while his psychic son sees horrific forebodings from the past and of the future.",
+		"link" : "http://www.imdb.com/title/tt0081505/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_59"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgyMzUwMTMxMl5BMl5BanBnXkFtZTgwODYyMDk2MjE@._V1_UY268_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Grave of the Fireflies (1988) ",
+		"movie_year" : "1988",
+		"genres" : [
+			"Animation",
+			"Drama",
+			"War"
+		],
+		"directors" : [
+			"Isao Takahata"
+		],
+		"stars" : [
+			"Tsutomu Tatsumi",
+			"Ayano Shiraishi",
+			"Akemi Yamaguchi"
+		],
+		"summary" : "A young boy and his little sister struggle to survive in Japan during World War II.",
+		"link" : "http://www.imdb.com/title/tt0095327/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_60"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTczOTA3MzY2N15BMl5BanBnXkFtZTcwOTYwNjE2MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "WALL·E (2008) ",
+		"movie_year" : "2008",
+		"genres" : [
+			"Animation",
+			"Adventure",
+			"Family"
+		],
+		"directors" : [
+			"Andrew Stanton"
+		],
+		"stars" : [
+			"Ben Burtt",
+			"Elissa Knight",
+			"Jeff Garlin"
+		],
+		"summary" : "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.",
+		"link" : "http://www.imdb.com/title/tt0910970/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_61"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Dark Knight Rises (2012) ",
+		"movie_year" : "2012",
+		"genres" : [
+			"Action",
+			"Thriller"
+		],
+		"directors" : [
+			"Christopher Nolan"
+		],
+		"stars" : [
+			"Christian Bale",
+			"Tom Hardy",
+			"Anne Hathaway"
+		],
+		"summary" : "Eight years after the Joker's reign of anarchy, the Dark Knight, with the help of the enigmatic Catwoman, is forced from his imposed exile to save Gotham City, now on the edge of total annihilation, from the brutal guerrilla terrorist Bane.",
+		"link" : "http://www.imdb.com/title/tt1345836/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_62"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjM4NTI5NzYyNV5BMl5BanBnXkFtZTgwNTkxNTYxMTE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "American Beauty (1999) ",
+		"movie_year" : "1999",
+		"genres" : [
+			"Drama",
+			"Romance"
+		],
+		"directors" : [
+			"Sam Mendes"
+		],
+		"stars" : [
+			"Kevin Spacey",
+			"Annette Bening",
+			"Thora Birch"
+		],
+		"summary" : "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.",
+		"link" : "http://www.imdb.com/title/tt0169547/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_63"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BOTYxZGJkNDUtOWRmMy00M2JjLWJiNjAtNTE0OWU0ODU1MDdiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Aliens (1986) ",
+		"movie_year" : "1986",
+		"genres" : [
+			"Action",
+			"Adventure",
+			"Sci-Fi"
+		],
+		"directors" : [
+			"James Cameron"
+		],
+		"stars" : [
+			"Sigourney Weaver",
+			"Michael Biehn",
+			"Carrie Henn"
+		],
+		"summary" : "The moon from Alien (1979) has been colonized, but contact is lost. This time, the rescue team has impressive firepower, but will it be enough?",
+		"link" : "http://www.imdb.com/title/tt0090605/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_64"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BYTU2YjNmN2UtMTkyYS00YTFhLWJkM2QtODNhODE0OGQzMDQ3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Princess Mononoke (1997) ",
+		"movie_year" : "1997",
+		"genres" : [
+			"Animation",
+			"Adventure",
+			"Fantasy"
+		],
+		"directors" : [
+			"Hayao Miyazaki"
+		],
+		"stars" : [
+			"Yôji Matsuda",
+			"Yuriko Ishida",
+			"Yûko Tanaka"
+		],
+		"summary" : "On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.",
+		"link" : "http://www.imdb.com/title/tt0119698/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_65"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Oldeuboi (2003) ",
+		"movie_year" : "2003",
+		"genres" : [
+			"Drama",
+			"Mystery",
+			"Thriller"
+		],
+		"directors" : [
+			"Chan-wook Park"
+		],
+		"stars" : [
+			"Min-sik Choi",
+			"Ji-tae Yu",
+			"Hye-jeong Kang"
+		],
+		"summary" : "After being kidnapped and imprisoned for 15 years, Oh Dae-Su is released, only to find that he must find his captor in 5 days.",
+		"link" : "http://www.imdb.com/title/tt0364569/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_66"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMGFkNWI4MTMtNGQ0OC00MWVmLTk3MTktOGYxN2Y2YWVkZWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Once Upon a Time in America (1984) ",
+		"movie_year" : "1984",
+		"genres" : [
+			"Crime",
+			"Drama"
+		],
+		"directors" : [
+			"Sergio Leone"
+		],
+		"stars" : [
+			"Robert De Niro",
+			"James Woods",
+			"Elizabeth McGovern"
+		],
+		"summary" : "A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan over thirty years later, where he once again must confront the ghosts and regrets of his old life.",
+		"link" : "http://www.imdb.com/title/tt0087843/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_67"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2Mjc1MDQwMl5BMl5BanBnXkFtZTcwNzUyOTUyMg@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Citizen Kane (1941) ",
+		"movie_year" : "1941",
+		"genres" : [
+			"Drama",
+			"Mystery"
+		],
+		"directors" : [
+			"Orson Welles"
+		],
+		"stars" : [
+			"Orson Welles",
+			"Joseph Cotten",
+			"Dorothy Comingore"
+		],
+		"summary" : "Following the death of a publishing tycoon, news reporters scramble to discover the meaning of his final utterance.",
+		"link" : "http://www.imdb.com/title/tt0033467/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_68"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE5Mzk5OTQ0Nl5BMl5BanBnXkFtZTYwNzUwMTQ5._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Das Boot (1981) ",
+		"movie_year" : "1981",
+		"genres" : [
+			"Adventure",
+			"Drama",
+			"Thriller"
+		],
+		"directors" : [
+			"Wolfgang Petersen"
+		],
+		"stars" : [
+			"Jürgen Prochnow",
+			"Herbert Grönemeyer",
+			"Klaus Wennemann"
+		],
+		"summary" : "The claustrophobic world of a WWII German U-boat; boredom, filth, and sheer terror.",
+		"link" : "http://www.imdb.com/title/tt0082096/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_69"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQwMTQ0MzgwNl5BMl5BanBnXkFtZTgwNjc4ODE4MzE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "North by Northwest (1959) ",
+		"movie_year" : "1959",
+		"genres" : [
+			"Action",
+			"Adventure",
+			"Crime"
+		],
+		"directors" : [
+			"Alfred Hitchcock"
+		],
+		"stars" : [
+			"Cary Grant",
+			"Eva Marie Saint",
+			"James Mason"
+		],
+		"summary" : "A hapless New York advertising executive is mistaken for a government agent by a group of foreign spies, and is pursued across the country while he looks for a way to survive.",
+		"link" : "http://www.imdb.com/title/tt0053125/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_70"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0MjgyNTUyNF5BMl5BanBnXkFtZTcwNDQzMDg0Nw@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Witness for the Prosecution (1957) ",
+		"movie_year" : "1957",
+		"genres" : [
+			"Crime",
+			"Drama",
+			"Mystery"
+		],
+		"directors" : [
+			"Billy Wilder"
+		],
+		"stars" : [
+			"Tyrone Power",
+			"Marlene Dietrich",
+			"Charles Laughton"
+		],
+		"summary" : "A veteran British barrister must defend his client in a murder trial that has surprise after surprise.",
+		"link" : "http://www.imdb.com/title/tt0051201/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_71"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BNzY0NzQyNzQzOF5BMl5BanBnXkFtZTcwMTgwNTk4OQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Vertigo (1958) ",
+		"movie_year" : "1958",
+		"genres" : [
+			"Mystery",
+			"Romance",
+			"Thriller"
+		],
+		"directors" : [
+			"Alfred Hitchcock"
+		],
+		"stars" : [
+			"James Stewart",
+			"Kim Novak",
+			"Barbara Bel Geddes"
+		],
+		"summary" : "A San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.",
+		"link" : "http://www.imdb.com/title/tt0052357/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_72"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BODllZjg2YjUtNWEzNy00ZGY2LTgyZmQtYTkxNDYyOWM3OTUyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Star Wars: Episode VI - Return of the Jedi (1983) ",
+		"movie_year" : "1983",
+		"genres" : [
+			"Action",
+			"Adventure",
+			"Fantasy"
+		],
+		"directors" : [
+			"Richard Marquand"
+		],
+		"stars" : [
+			"Mark Hamill",
+			"Harrison Ford",
+			"Carrie Fisher"
+		],
+		"summary" : "After rescuing Han Solo from the palace of Jabba the Hutt, the rebels attempt to destroy the second Death Star, while Luke struggles to make Vader return from the dark side of the Force.",
+		"link" : "http://www.imdb.com/title/tt0086190/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_73"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQyNjA5NzU5MV5BMl5BanBnXkFtZTgwMDk1MTA5MTE@._V1_UY268_CR3,0,182,268_AL_.jpg",
+		"movie_title" : "M (1931) ",
+		"movie_year" : "1931",
+		"genres" : [
+			"Crime",
+			"Drama",
+			"Mystery"
+		],
+		"directors" : [
+			"Fritz Lang"
+		],
+		"stars" : [
+			"Peter Lorre",
+			"Ellen Widmann",
+			"Inge Landgut"
+		],
+		"summary" : "When the police in a German city are unable to catch a child-murderer, other criminals join in the manhunt.",
+		"link" : "http://www.imdb.com/title/tt0022100/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_74"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BNjE5ZDJiZTQtOGE2YS00ZTc5LTk0OGUtOTg2NjdjZmVlYzE2XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_UY268_CR2,0,182,268_AL_.jpg",
+		"movie_title" : "Reservoir Dogs (1992) ",
+		"movie_year" : "1992",
+		"genres" : [
+			"Crime",
+			"Drama",
+			"Thriller"
+		],
+		"directors" : [
+			"Quentin Tarantino"
+		],
+		"stars" : [
+			"Harvey Keitel",
+			"Tim Roth",
+			"Michael Madsen"
+		],
+		"summary" : "After a simple jewelry heist goes terribly wrong, the surviving criminals begin to suspect that one of them is a police informant.",
+		"link" : "http://www.imdb.com/title/tt0105236/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_75"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BNTMyNGE1ODQtYTNiNS00ZTUyLThhZjktMTgyOGZkZThlYTc3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Braveheart (1995) ",
+		"movie_year" : "1995",
+		"genres" : [
+			"Biography",
+			"Drama",
+			"History"
+		],
+		"directors" : [
+			"Mel Gibson"
+		],
+		"stars" : [
+			"Mel Gibson",
+			"Sophie Marceau",
+			"Patrick McGoohan"
+		],
+		"summary" : "When his secret bride is executed for assaulting an English soldier who tried to rape her, William Wallace begins a revolt against King Edward I of England.",
+		"link" : "http://www.imdb.com/title/tt0112573/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_76"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA3MjVkMWMtYTQ4ZC00ODczLWFjYmQtMDFkZDQ2Y2M0NDVmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Amélie (2001) ",
+		"movie_year" : "2001",
+		"genres" : [
+			"Comedy",
+			"Romance"
+		],
+		"directors" : [
+			"Jean-Pierre Jeunet"
+		],
+		"stars" : [
+			"Audrey Tautou",
+			"Mathieu Kassovitz",
+			"Rufus"
+		],
+		"summary" : "Amélie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love.",
+		"link" : "http://www.imdb.com/title/tt0211915/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_77"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkzODMzODYwOF5BMl5BanBnXkFtZTcwODM2NjA2NQ@@._V1_UY268_CR2,0,182,268_AL_.jpg",
+		"movie_title" : "Requiem for a Dream (2000) ",
+		"movie_year" : "2000",
+		"genres" : [
+			"Drama"
+		],
+		"directors" : [
+			"Darren Aronofsky"
+		],
+		"stars" : [
+			"Ellen Burstyn",
+			"Jared Leto",
+			"Jennifer Connelly"
+		],
+		"summary" : "The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.",
+		"link" : "http://www.imdb.com/title/tt0180093/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_78"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "A Clockwork Orange (1971) ",
+		"movie_year" : "1971",
+		"genres" : [
+			"Crime",
+			"Drama",
+			"Sci-Fi"
+		],
+		"directors" : [
+			"Stanley Kubrick"
+		],
+		"stars" : [
+			"Malcolm McDowell",
+			"Patrick Magee",
+			"Michael Bates"
+		],
+		"summary" : "In future Britain, charismatic delinquent Alex DeLarge is jailed and volunteers for an experimental aversion therapy developed by the government in an effort to solve society's crime problem - but not all goes according to plan.",
+		"link" : "http://www.imdb.com/title/tt0066921/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_79"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BNGQxNDgzZWQtZTNjNi00M2RkLWExZmEtNmE1NjEyZDEwMzA5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Taxi Driver (1976) ",
+		"movie_year" : "1976",
+		"genres" : [
+			"Crime",
+			"Drama"
+		],
+		"directors" : [
+			"Martin Scorsese"
+		],
+		"stars" : [
+			"Robert De Niro",
+			"Jodie Foster",
+			"Cybill Shepherd"
+		],
+		"summary" : "A mentally unstable Vietnam War veteran works as a night-time taxi driver in New York City where the perceived decadence and sleaze feeds his urge for violent action, attempting to save a preadolescent prostitute in the process.",
+		"link" : "http://www.imdb.com/title/tt0075314/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_80"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQzOTE4MTIzMV5BMl5BanBnXkFtZTgwODc1NDQ5MDE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Double Indemnity (1944) ",
+		"movie_year" : "1944",
+		"genres" : [
+			"Crime",
+			"Drama",
+			"Film-Noir"
+		],
+		"directors" : [
+			"Billy Wilder"
+		],
+		"stars" : [
+			"Fred MacMurray",
+			"Barbara Stanwyck",
+			"Edward G. Robinson"
+		],
+		"summary" : "An insurance representative lets himself be talked into a murder/insurance fraud scheme that arouses an insurance investigator's suspicions.",
+		"link" : "http://www.imdb.com/title/tt0036775/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_81"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UY268_CR2,0,182,268_AL_.jpg",
+		"movie_title" : "Lawrence of Arabia (1962) ",
+		"movie_year" : "1962",
+		"genres" : [
+			"Adventure",
+			"Biography",
+			"Drama"
+		],
+		"directors" : [
+			"David Lean"
+		],
+		"stars" : [
+			"Peter O'Toole",
+			"Alec Guinness",
+			"Anthony Quinn"
+		],
+		"summary" : "The story of T.E. Lawrence, the English officer who successfully united and lead the diverse, often warring, Arab tribes during World War I in order to fight the Turks.",
+		"link" : "http://www.imdb.com/title/tt0056172/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_82"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4MzI1NDY2Nl5BMl5BanBnXkFtZTcwMTcyODc5Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "To Kill a Mockingbird (1962) ",
+		"movie_year" : "1962",
+		"genres" : [
+			"Crime",
+			"Drama"
+		],
+		"directors" : [
+			"Robert Mulligan"
+		],
+		"stars" : [
+			"Gregory Peck",
+			"John Megna",
+			"Frank Overton"
+		],
+		"summary" : "Atticus Finch, a lawyer in the Depression-era South, defends a black man against an undeserved rape charge, and his children against prejudice.",
+		"link" : "http://www.imdb.com/title/tt0056592/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_83"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_UY268_CR3,0,182,268_AL_.jpg",
+		"movie_title" : "Toy Story 3 (2010) ",
+		"movie_year" : "2010",
+		"genres" : [
+			"Animation",
+			"Adventure",
+			"Comedy"
+		],
+		"directors" : [
+			"Lee Unkrich"
+		],
+		"stars" : [
+			"Tom Hanks",
+			"Tim Allen",
+			"Joan Cusack"
+		],
+		"summary" : "The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home.",
+		"link" : "http://www.imdb.com/title/tt0435761/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_84"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Eternal Sunshine of the Spotless Mind (2004) ",
+		"movie_year" : "2004",
+		"genres" : [
+			"Drama",
+			"Fantasy",
+			"Romance"
+		],
+		"directors" : [
+			"Michel Gondry"
+		],
+		"stars" : [
+			"Jim Carrey",
+			"Kate Winslet",
+			"Tom Wilkinson"
+		],
+		"summary" : "When their relationship turns sour, a couple undergoes a procedure to have each other erased from their memories. But it is only through the process of loss that they discover what they had to begin with.",
+		"link" : "http://www.imdb.com/title/tt0338013/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_85"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg5NDkwMTk5N15BMl5BanBnXkFtZTYwODg3MDk2._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Amadeus (1984) ",
+		"movie_year" : "1984",
+		"genres" : [
+			"Biography",
+			"Drama",
+			"History"
+		],
+		"directors" : [
+			"Milos Forman"
+		],
+		"stars" : [
+			"F. Murray Abraham",
+			"Tom Hulce",
+			"Elizabeth Berridge"
+		],
+		"summary" : "The incredible story of Wolfgang Amadeus Mozart, told by his peer and secret rival Antonio Salieri - now confined to an insane asylum.",
+		"link" : "http://www.imdb.com/title/tt0086879/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_86"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4NzY4ODk4Nl5BMl5BanBnXkFtZTgwOTcxNTYxMTE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Full Metal Jacket (1987) ",
+		"movie_year" : "1987",
+		"genres" : [
+			"Drama",
+			"War"
+		],
+		"directors" : [
+			"Stanley Kubrick"
+		],
+		"stars" : [
+			"Matthew Modine",
+			"R. Lee Ermey",
+			"Vincent D'Onofrio"
+		],
+		"summary" : "A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+		"link" : "http://www.imdb.com/title/tt0093058/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_87"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5MjM1OTAyOV5BMl5BanBnXkFtZTgwMDkwODg4MDE@._V1._CR52,57,915,1388_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Sting (1973) ",
+		"movie_year" : "1973",
+		"genres" : [
+			"Comedy",
+			"Crime",
+			"Drama"
+		],
+		"directors" : [
+			"George Roy Hill"
+		],
+		"stars" : [
+			"Paul Newman",
+			"Robert Redford",
+			"Robert Shaw"
+		],
+		"summary" : "In Chicago in September 1936, a young con man seeking revenge for his murdered partner teams up with a master of the big con to win a fortune from a criminal banker.",
+		"link" : "http://www.imdb.com/title/tt0070735/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_88"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTZkZTBhYmUtMTIzNy00YTViLTg1OWItNGUwMmVlN2FjZTVkXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "2001: A Space Odyssey (1968) ",
+		"movie_year" : "1968",
+		"genres" : [
+			"Adventure",
+			"Mystery",
+			"Sci-Fi"
+		],
+		"directors" : [
+			"Stanley Kubrick"
+		],
+		"stars" : [
+			"Keir Dullea",
+			"Gary Lockwood",
+			"William Sylvester"
+		],
+		"summary" : "Humanity finds a mysterious, obviously artificial object buried beneath the Lunar surface and, with the intelligent computer H.A.L. 9000, sets off on a quest.",
+		"link" : "http://www.imdb.com/title/tt0062622/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_89"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIzMzAyMzg1Nl5BMl5BanBnXkFtZTgwMzMyNzk0MTE@._V1_UY268_CR2,0,182,268_AL_.jpg",
+		"movie_title" : "Bicycle Thieves (1948) ",
+		"movie_year" : "1948",
+		"genres" : [
+			"Drama"
+		],
+		"directors" : [
+			"Vittorio De Sica"
+		],
+		"stars" : [
+			"Lamberto Maggiorani",
+			"Enzo Staiola",
+			"Lianella Carell"
+		],
+		"summary" : "Set in Post-WWII Italy, a working class man's bicycle is stolen. He and his son set out to find it.",
+		"link" : "http://www.imdb.com/title/tt0040522/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_90"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Toy Story (1995) ",
+		"movie_year" : "1995",
+		"genres" : [
+			"Animation",
+			"Adventure",
+			"Comedy"
+		],
+		"directors" : [
+			"John Lasseter"
+		],
+		"stars" : [
+			"Tom Hanks",
+			"Tim Allen",
+			"Don Rickles"
+		],
+		"summary" : "A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.",
+		"link" : "http://www.imdb.com/title/tt0114709/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_91"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxMTIyNTI4Nl5BMl5BanBnXkFtZTcwNTk1ODQyMg@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Singin' in the Rain (1952) ",
+		"movie_year" : "1952",
+		"genres" : [
+			"Comedy",
+			"Musical",
+			"Romance"
+		],
+		"directors" : [
+			"Stanley Donen",
+			"Gene Kelly"
+		],
+		"stars" : [
+			"Gene Kelly",
+			"Donald O'Connor",
+			"Debbie Reynolds"
+		],
+		"summary" : "A silent film production company and cast make a difficult transition to sound.",
+		"link" : "http://www.imdb.com/title/tt0045152/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_92"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA2NDYxOGYtYjU1Mi00Y2QzLTgxMTQtMWI1MGI0ZGQ5MmU4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UY268_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Snatch (2000) ",
+		"movie_year" : "2000",
+		"genres" : [
+			"Comedy",
+			"Crime"
+		],
+		"directors" : [
+			"Guy Ritchie"
+		],
+		"stars" : [
+			"Jason Statham",
+			"Brad Pitt",
+			"Benicio Del Toro"
+		],
+		"summary" : "Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers, and supposedly Jewish jewelers fight to track down a priceless stolen diamond.",
+		"link" : "http://www.imdb.com/title/tt0208092/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_93"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Inglourious Basterds (2009) ",
+		"movie_year" : "2009",
+		"genres" : [
+			"Adventure",
+			"Drama",
+			"War"
+		],
+		"directors" : [
+			"Quentin Tarantino",
+			"Eli Roth"
+		],
+		"stars" : [
+			"Brad Pitt",
+			"Diane Kruger",
+			"Eli Roth"
+		],
+		"summary" : "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",
+		"link" : "http://www.imdb.com/title/tt0361748/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_94"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BNjE4MWM3MDctOTk2NC00MTUwLTg2OTUtYjg5YWU3MzRmYTg0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY268_CR4,0,182,268_AL_.jpg",
+		"movie_title" : "The Kid (1921) ",
+		"movie_year" : "1921",
+		"genres" : [
+			"Comedy",
+			"Drama",
+			"Family"
+		],
+		"directors" : [
+			"Charles Chaplin"
+		],
+		"stars" : [
+			"Charles Chaplin",
+			"Edna Purviance",
+			"Jackie Coogan"
+		],
+		"summary" : "The Tramp cares for an abandoned child, but events put that relationship in jeopardy.",
+		"link" : "http://www.imdb.com/title/tt0012349/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_95"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BYzgyYzc4Y2QtNDcyZS00NDdmLWI5ZTYtMTQ2YWU5MWFhOTE4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Monty Python and the Holy Grail (1975) ",
+		"movie_year" : "1975",
+		"genres" : [
+			"Adventure",
+			"Comedy",
+			"Fantasy"
+		],
+		"directors" : [
+			"Terry Gilliam",
+			"Terry Jones"
+		],
+		"stars" : [
+			"Graham Chapman",
+			"John Cleese",
+			"Eric Idle"
+		],
+		"summary" : "King Arthur and his knights embark on a low-budget search for the Grail, encountering many, very silly obstacles.",
+		"link" : "http://www.imdb.com/title/tt0071853/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_96"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BNWEwNDhhNWUtYWMzNi00ZTNhLWFiZDAtMjBjZmJhMTU0ZTY2XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "L.A. Confidential (1997) ",
+		"movie_year" : "1997",
+		"genres" : [
+			"Crime",
+			"Drama",
+			"Mystery"
+		],
+		"directors" : [
+			"Curtis Hanson"
+		],
+		"stars" : [
+			"Kevin Spacey",
+			"Russell Crowe",
+			"Guy Pearce"
+		],
+		"summary" : "As corruption grows in 1950s LA, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.",
+		"link" : "http://www.imdb.com/title/tt0119488/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_97"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQzMjIzOTEzMF5BMl5BanBnXkFtZTcwMTUzNTk3NA@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "For a Few Dollars More (1965) ",
+		"movie_year" : "1965",
+		"genres" : [
+			"Western"
+		],
+		"directors" : [
+			"Sergio Leone"
+		],
+		"stars" : [
+			"Clint Eastwood",
+			"Lee Van Cleef",
+			"Gian Maria Volontè"
+		],
+		"summary" : "Two bounty hunters with the same intentions team up to track down a Western outlaw.",
+		"link" : "http://www.imdb.com/title/tt0059578/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_98"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEzMzA4NDE2OF5BMl5BanBnXkFtZTcwNTc5MDI2NQ@@._V1._CR0,0,503,683_UY268_CR7,0,182,268_AL_.jpg",
+		"movie_title" : "Rashômon (1950) ",
+		"movie_year" : "1950",
+		"genres" : [
+			"Crime",
+			"Drama",
+			"Mystery"
+		],
+		"directors" : [
+			"Akira Kurosawa"
+		],
+		"stars" : [
+			"Toshirô Mifune",
+			"Machiko Kyô",
+			"Masayuki Mori"
+		],
+		"summary" : "A heinous crime and its aftermath are recalled from differing points of view.",
+		"link" : "http://www.imdb.com/title/tt0042876/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_99"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM1OTc4MzgzNl5BMl5BanBnXkFtZTcwNTE2NjgyMw@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Apartment (1960) ",
+		"movie_year" : "1960",
+		"genres" : [
+			"Comedy",
+			"Drama",
+			"Romance"
+		],
+		"directors" : [
+			"Billy Wilder"
+		],
+		"stars" : [
+			"Jack Lemmon",
+			"Shirley MacLaine",
+			"Fred MacMurray"
+		],
+		"summary" : "A man tries to rise in his company by letting its executives use his apartment for trysts, but complications and a romance of his own ensue.",
+		"link" : "http://www.imdb.com/title/tt0053604/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_100"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAzOTM4MzEwNl5BMl5BanBnXkFtZTgwMzU1OTc1MDE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Scarface (1983) ",
+		"movie_year" : "1983",
+		"genres" : [
+			"Crime",
+			"Drama"
+		],
+		"directors" : [
+			"Brian De Palma"
+		],
+		"stars" : [
+			"Al Pacino",
+			"Michelle Pfeiffer",
+			"Steven Bauer"
+		],
+		"summary" : "In Miami in 1980, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.",
+		"link" : "http://www.imdb.com/title/tt0086250/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_101"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BZWRlNDdkNzItMzhlZC00YTdmLWIwNjktYjY5NjQ1ZmQ3N2FkXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY268_CR9,0,182,268_AL_.jpg",
+		"movie_title" : "3 Idiots (2009) ",
+		"movie_year" : "2009",
+		"genres" : [
+			"Comedy",
+			"Drama"
+		],
+		"directors" : [
+			"Rajkumar Hirani"
+		],
+		"stars" : [
+			"Aamir Khan",
+			"Madhavan",
+			"Mona Singh"
+		],
+		"summary" : "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them 'idiots'.",
+		"link" : "http://www.imdb.com/title/tt1187043/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_102"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjNkMzc2N2QtNjVlNS00ZTk5LTg0MTgtODY2MDAwNTMwZjBjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Indiana Jones and the Last Crusade (1989) ",
+		"movie_year" : "1989",
+		"genres" : [
+			"Action",
+			"Adventure",
+			"Fantasy"
+		],
+		"directors" : [
+			"Steven Spielberg"
+		],
+		"stars" : [
+			"Harrison Ford",
+			"Sean Connery",
+			"Alison Doody"
+		],
+		"summary" : "When Dr. Henry Jones Sr. suddenly goes missing while pursuing the Holy Grail, eminent archaeologist Indiana Jones must follow in his father's footsteps and stop the Nazis.",
+		"link" : "http://www.imdb.com/title/tt0097576/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_103"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzMzU4NDUwOF5BMl5BanBnXkFtZTcwMTM5MjA5Ng@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Jodaeiye Nader az Simin (2011) ",
+		"movie_year" : "2011",
+		"genres" : [
+			"Drama",
+			"Mystery"
+		],
+		"directors" : [
+			"Asghar Farhadi"
+		],
+		"stars" : [
+			"Peyman Moaadi",
+			"Leila Hatami",
+			"Sareh Bayat"
+		],
+		"summary" : "A married couple are faced with a difficult decision - to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent who has Alzheimer's disease.",
+		"link" : "http://www.imdb.com/title/tt1832382/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_104"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BNDAzNTkyODg1MF5BMl5BanBnXkFtZTgwMDA3NDkwMDE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Metropolis (1927) ",
+		"movie_year" : "1927",
+		"genres" : [
+			"Drama",
+			"Sci-Fi"
+		],
+		"directors" : [
+			"Fritz Lang"
+		],
+		"stars" : [
+			"Brigitte Helm",
+			"Alfred Abel",
+			"Gustav Fröhlich"
+		],
+		"summary" : "In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working class prophet who predicts the coming of a savior to mediate their differences.",
+		"link" : "http://www.imdb.com/title/tt0017136/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_105"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg2NDg3ODg4NF5BMl5BanBnXkFtZTcwNzk3NTc3Nw@@._V1_UY268_CR3,0,182,268_AL_.jpg",
+		"movie_title" : "Jagten (2012) ",
+		"movie_year" : "2012",
+		"genres" : [
+			"Drama"
+		],
+		"directors" : [
+			"Thomas Vinterberg"
+		],
+		"stars" : [
+			"Mads Mikkelsen",
+			"Thomas Bo Larsen",
+			"Annika Wedderkopp"
+		],
+		"summary" : "A teacher lives a lonely life, all the while struggling over his son's custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent little lie.",
+		"link" : "http://www.imdb.com/title/tt2106476/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_106"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "All About Eve (1950) ",
+		"movie_year" : "1950",
+		"genres" : [
+			"Drama"
+		],
+		"directors" : [
+			"Joseph L. Mankiewicz"
+		],
+		"stars" : [
+			"Bette Davis",
+			"Anne Baxter",
+			"George Sanders"
+		],
+		"summary" : "An ingenue insinuates herself into the company of an established but aging stage actress and her circle of theater friends.",
+		"link" : "http://www.imdb.com/title/tt0042192/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_107"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAwNTQ3ODUyMl5BMl5BanBnXkFtZTgwNDg5ODQyNjE@._V1_UY268_CR1,0,182,268_AL_.jpg",
+		"movie_title" : "Yojimbo (1961) ",
+		"movie_year" : "1961",
+		"genres" : [
+			"Action",
+			"Drama",
+			"Thriller"
+		],
+		"directors" : [
+			"Akira Kurosawa"
+		],
+		"stars" : [
+			"Toshirô Mifune",
+			"Eijirô Tôno",
+			"Tatsuya Nakadai"
+		],
+		"summary" : "A crafty ronin comes to a town divided by two criminal gangs and decides to play them against each other to free the town.",
+		"link" : "http://www.imdb.com/title/tt0055630/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_108"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk0NjY0Mzg5MF5BMl5BanBnXkFtZTcwNzM1OTM2MQ@@._V1_UY268_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Good Will Hunting (1997) ",
+		"movie_year" : "1997",
+		"genres" : [
+			"Drama"
+		],
+		"directors" : [
+			"Gus Van Sant"
+		],
+		"stars" : [
+			"Robin Williams",
+			"Matt Damon",
+			"Ben Affleck"
+		],
+		"summary" : "Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.",
+		"link" : "http://www.imdb.com/title/tt0119217/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_109"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BNTM3OTc0MzM2OV5BMl5BanBnXkFtZTYwNzUwMTI3._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Batman Begins (2005) ",
+		"movie_year" : "2005",
+		"genres" : [
+			"Action",
+			"Adventure"
+		],
+		"directors" : [
+			"Christopher Nolan"
+		],
+		"stars" : [
+			"Christian Bale",
+			"Michael Caine",
+			"Ken Watanabe"
+		],
+		"summary" : "After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from the corruption that Scarecrow and the League of Shadows have cast upon it.",
+		"link" : "http://www.imdb.com/title/tt0372784/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_110"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4MzUzOTYwOV5BMl5BanBnXkFtZTgwNDA4MzgyMjE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Treasure of the Sierra Madre (1948) ",
+		"movie_year" : "1948",
+		"genres" : [
+			"Adventure",
+			"Drama",
+			"Western"
+		],
+		"directors" : [
+			"John Huston"
+		],
+		"stars" : [
+			"Humphrey Bogart",
+			"Walter Huston",
+			"Tim Holt"
+		],
+		"summary" : "Fred Dobbs and Bob Curtin, two Americans searching for work in Mexico, convince an old prospector to help them mine for gold in the Sierra Madre Mountains.",
+		"link" : "http://www.imdb.com/title/tt0040897/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_111"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BY2JlMWQ2M2QtMjgwYy00MzY3LTg5ZTgtYjc2OTA5MWFkNGMyXkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Some Like It Hot (1959) ",
+		"movie_year" : "1959",
+		"genres" : [
+			"Comedy",
+			"Romance"
+		],
+		"directors" : [
+			"Billy Wilder"
+		],
+		"stars" : [
+			"Marilyn Monroe",
+			"Tony Curtis",
+			"Jack Lemmon"
+		],
+		"summary" : "When two musicians witness a mob hit, they flee the state in an all-female band disguised as women, but further complications set in.",
+		"link" : "http://www.imdb.com/title/tt0053291/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_112"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk3NDE2NzI4NF5BMl5BanBnXkFtZTgwNzE1MzEyMTE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Up (2009) ",
+		"movie_year" : "2009",
+		"genres" : [
+			"Animation",
+			"Adventure",
+			"Comedy"
+		],
+		"directors" : [
+			"Pete Docter",
+			"Bob Peterson"
+		],
+		"stars" : [
+			"Edward Asner",
+			"Jordan Nagai",
+			"John Ratzenberger"
+		],
+		"summary" : "Seventy-eight year old Carl Fredricksen travels to Paradise Falls in his home equipped with balloons, inadvertently taking a young stowaway.",
+		"link" : "http://www.imdb.com/title/tt1049413/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_113"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BODM3YWY4NmQtN2Y3Ni00OTg0LWFhZGQtZWE3ZWY4MTJlOWU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Unforgiven (1992) ",
+		"movie_year" : "1992",
+		"genres" : [
+			"Drama",
+			"Western"
+		],
+		"directors" : [
+			"Clint Eastwood"
+		],
+		"stars" : [
+			"Clint Eastwood",
+			"Gene Hackman",
+			"Morgan Freeman"
+		],
+		"summary" : "Retired Old West gunslinger William Munny reluctantly takes on one last job, with the help of his old partner and a young man.",
+		"link" : "http://www.imdb.com/title/tt0105695/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_114"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjMwNzMzMTQ0Ml5BMl5BanBnXkFtZTgwNjExMzUwNjE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Third Man (1949) ",
+		"movie_year" : "1949",
+		"genres" : [
+			"Film-Noir",
+			"Mystery",
+			"Thriller"
+		],
+		"directors" : [
+			"Carol Reed"
+		],
+		"stars" : [
+			"Orson Welles",
+			"Joseph Cotten",
+			"Alida Valli"
+		],
+		"summary" : "Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, Harry Lime.",
+		"link" : "http://www.imdb.com/title/tt0041959/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_115"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM1OTI1MjE2Nl5BMl5BanBnXkFtZTcwMTEwMzc4NA@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Downfall (2004) ",
+		"movie_year" : "2004",
+		"genres" : [
+			"Biography",
+			"Drama",
+			"History"
+		],
+		"directors" : [
+			"Oliver Hirschbiegel"
+		],
+		"stars" : [
+			"Bruno Ganz",
+			"Alexandra Maria Lara",
+			"Ulrich Matthes"
+		],
+		"summary" : "Traudl Junge, the final secretary for Adolf Hitler, tells of the Nazi dictator's final days in his Berlin bunker at the end of WWII.",
+		"link" : "http://www.imdb.com/title/tt0363163/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_116"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxOTg3OTc5MF5BMl5BanBnXkFtZTcwNzkwNjMwNA@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Raging Bull (1980) ",
+		"movie_year" : "1980",
+		"genres" : [
+			"Biography",
+			"Drama",
+			"Sport"
+		],
+		"directors" : [
+			"Martin Scorsese"
+		],
+		"stars" : [
+			"Robert De Niro",
+			"Cathy Moriarty",
+			"Joe Pesci"
+		],
+		"summary" : "An emotionally self-destructive boxer's journey through life, as the violence and temper that leads him to the top in the ring destroys his life outside it.",
+		"link" : "http://www.imdb.com/title/tt0081398/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_117"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg0OTk4MDEwMV5BMl5BanBnXkFtZTYwNzMwNzI5._V1_UY268_CR2,0,182,268_AL_.jpg",
+		"movie_title" : "Children of Heaven (1997) ",
+		"movie_year" : "1997",
+		"genres" : [
+			"Drama",
+			"Family"
+		],
+		"directors" : [
+			"Majid Majidi"
+		],
+		"stars" : [
+			"Mohammad Amir Naji",
+			"Amir Farrokh Hashemian",
+			"Bahare Seddiqi"
+		],
+		"summary" : "After a boy loses his sister's pair of shoes, he goes on a series of adventures in order to find them. When he can't, he tries a new way to 'win' a new pair.",
+		"link" : "http://www.imdb.com/title/tt0118849/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_118"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMzNmY2IwYzAtNDQ1NC00MmI4LThkOTgtZmVhYmExOTVhMWRkXkEyXkFqcGdeQXVyMTk5NDA3Nw@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Die Hard (1988) ",
+		"movie_year" : "1988",
+		"genres" : [
+			"Action",
+			"Thriller"
+		],
+		"directors" : [
+			"John McTiernan"
+		],
+		"stars" : [
+			"Bruce Willis",
+			"Alan Rickman",
+			"Bonnie Bedelia"
+		],
+		"summary" : "John McClane, officer of the NYPD, tries to save his wife Holly Gennaro and several others that were taken hostage by German terrorist Hans Gruber during a Christmas party at the Nakatomi Plaza in Los Angeles.",
+		"link" : "http://www.imdb.com/title/tt0095016/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_119"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI2MTQwNDI3Nl5BMl5BanBnXkFtZTcwNDk4MTkzNA@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Great Escape (1963) ",
+		"movie_year" : "1963",
+		"genres" : [
+			"Adventure",
+			"Drama",
+			"History"
+		],
+		"directors" : [
+			"John Sturges"
+		],
+		"stars" : [
+			"Steve McQueen",
+			"James Garner",
+			"Richard Attenborough"
+		],
+		"summary" : "Allied P.O.W.s plan for several hundred of their number to escape from a German camp during World War II.",
+		"link" : "http://www.imdb.com/title/tt0057115/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_120"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BN2YyNDE5NzItMjAwNC00MGQxLTllNjktZGIzMWFkZjA3OWQ0XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UY268_CR2,0,182,268_AL_.jpg",
+		"movie_title" : "Chinatown (1974) ",
+		"movie_year" : "1974",
+		"genres" : [
+			"Drama",
+			"Mystery",
+			"Thriller"
+		],
+		"directors" : [
+			"Roman Polanski"
+		],
+		"stars" : [
+			"Jack Nicholson",
+			"Faye Dunaway",
+			"John Huston"
+		],
+		"summary" : "A private detective hired to expose an adulterer finds himself caught up in a web of deceit, corruption and murder.",
+		"link" : "http://www.imdb.com/title/tt0071315/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_121"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BNGMwNzUwNjYtZWM5NS00YzMyLWI4NjAtNjM0ZDBiMzE1YWExXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Heat (1995) ",
+		"movie_year" : "1995",
+		"genres" : [
+			"Action",
+			"Crime",
+			"Drama"
+		],
+		"directors" : [
+			"Michael Mann"
+		],
+		"stars" : [
+			"Al Pacino",
+			"Robert De Niro",
+			"Val Kilmer"
+		],
+		"summary" : "A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist.",
+		"link" : "http://www.imdb.com/title/tt0113277/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_122"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Inside Out (2015) ",
+		"movie_year" : "2015",
+		"genres" : [
+			"Animation",
+			"Adventure",
+			"Comedy"
+		],
+		"directors" : [
+			"Pete Docter",
+			"Ronnie Del Carmen"
+		],
+		"stars" : [
+			"Amy Poehler",
+			"Bill Hader",
+			"Lewis Black"
+		],
+		"summary" : "After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school.",
+		"link" : "http://www.imdb.com/title/tt2096673/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_123"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU3ODg2NjQ5NF5BMl5BanBnXkFtZTcwMDEwODgzMQ@@._V1_UY268_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Pan's Labyrinth (2006) ",
+		"movie_year" : "2006",
+		"genres" : [
+			"Drama",
+			"Fantasy",
+			"War"
+		],
+		"directors" : [
+			"Guillermo del Toro"
+		],
+		"stars" : [
+			"Ivana Baquero",
+			"Ariadna Gil",
+			"Sergi López"
+		],
+		"summary" : "In the falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world.",
+		"link" : "http://www.imdb.com/title/tt0457430/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_124"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Room (2015) ",
+		"movie_year" : "2015",
+		"genres" : [
+			"Drama"
+		],
+		"directors" : [
+			"Lenny Abrahamson"
+		],
+		"stars" : [
+			"Brie Larson",
+			"Jacob Tremblay",
+			"Sean Bridgers"
+		],
+		"summary" : "A young boy is raised within the confines of a small shed.",
+		"link" : "http://www.imdb.com/title/tt3170832/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_125"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTcwMTU3MjI1OV5BMl5BanBnXkFtZTgwNjE2OTI3MjE@._V1_UY268_CR4,0,182,268_AL_.jpg",
+		"movie_title" : "On the Waterfront (1954) ",
+		"movie_year" : "1954",
+		"genres" : [
+			"Crime",
+			"Drama",
+			"Thriller"
+		],
+		"directors" : [
+			"Elia Kazan"
+		],
+		"stars" : [
+			"Marlon Brando",
+			"Karl Malden",
+			"Lee J. Cobb"
+		],
+		"summary" : "An ex-prize fighter turned longshoreman struggles to stand up to his corrupt union bosses.",
+		"link" : "http://www.imdb.com/title/tt0047296/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_126"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE3NzY5ODQwMV5BMl5BanBnXkFtZTcwNzY1NzcxNw@@._V1_UY268_CR6,0,182,268_AL_.jpg",
+		"movie_title" : "My Neighbor Totoro (1988) ",
+		"movie_year" : "1988",
+		"genres" : [
+			"Animation",
+			"Family",
+			"Fantasy"
+		],
+		"directors" : [
+			"Hayao Miyazaki"
+		],
+		"stars" : [
+			"Hitoshi Takagi",
+			"Noriko Hidaka",
+			"Chika Sakamoto"
+		],
+		"summary" : "When two girls move to the country to be near their ailing mother, they have adventures with the wonderous forest spirits who live nearby.",
+		"link" : "http://www.imdb.com/title/tt0096283/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_127"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTcyMDU0MTQzNV5BMl5BanBnXkFtZTcwOTk2NDQyMQ@@._V1._CR12,28,314,446_UY268_CR3,0,182,268_AL_.jpg",
+		"movie_title" : "Ikiru (1952) ",
+		"movie_year" : "1952",
+		"genres" : [
+			"Drama"
+		],
+		"directors" : [
+			"Akira Kurosawa"
+		],
+		"stars" : [
+			"Takashi Shimura",
+			"Nobuo Kaneko",
+			"Shin'ichi Himori"
+		],
+		"summary" : "A bureaucrat tries to find a meaning in his life after he discovers he has terminal cancer.",
+		"link" : "http://www.imdb.com/title/tt0044741/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_128"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BNTEyNjg0MDM4OF5BMl5BanBnXkFtZTgwODI0NjUxODE@._V1_UY268_CR2,0,182,268_AL_.jpg",
+		"movie_title" : "Ran (1985) ",
+		"movie_year" : "1985",
+		"genres" : [
+			"Action",
+			"Drama"
+		],
+		"directors" : [
+			"Akira Kurosawa"
+		],
+		"stars" : [
+			"Tatsuya Nakadai",
+			"Akira Terao",
+			"Jinpachi Nezu"
+		],
+		"summary" : "In Medieval Japan, an elderly warlord retires, handing over his empire to his three sons. However, he vastly underestimates how the new-found power will corrupt them and cause them to turn on each other...and him.",
+		"link" : "http://www.imdb.com/title/tt0089881/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_129"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMzYzMDQyNzA4NV5BMl5BanBnXkFtZTYwNDU5NDU5._V1_UY268_CR7,0,182,268_AL_.jpg",
+		"movie_title" : "The Gold Rush (1925) ",
+		"movie_year" : "1925",
+		"genres" : [
+			"Adventure",
+			"Comedy",
+			"Drama"
+		],
+		"directors" : [
+			"Charles Chaplin"
+		],
+		"stars" : [
+			"Charles Chaplin",
+			"Mack Swain",
+			"Tom Murray"
+		],
+		"summary" : "A prospector goes to the Klondike in search of gold and finds it and more.",
+		"link" : "http://www.imdb.com/title/tt0015864/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_130"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTAxMjRiMGUtN2Q1Zi00ODg5LThhMTItMTJmNTRmYWFhNGRjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Mr. Smith Goes to Washington (1939) ",
+		"movie_year" : "1939",
+		"genres" : [
+			"Comedy",
+			"Drama"
+		],
+		"directors" : [
+			"Frank Capra"
+		],
+		"stars" : [
+			"James Stewart",
+			"Jean Arthur",
+			"Claude Rains"
+		],
+		"summary" : "A naive man is appointed to fill a vacancy in the United States Senate. His plans promptly collide with political corruption, but he doesn't back down.",
+		"link" : "http://www.imdb.com/title/tt0031679/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_131"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BNTEwOTE4OGMtM2ZmMC00NmZmLThlM2ItNmYxNWJkNWM4YjJkXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Bridge on the River Kwai (1957) ",
+		"movie_year" : "1957",
+		"genres" : [
+			"Adventure",
+			"Drama",
+			"War"
+		],
+		"directors" : [
+			"David Lean"
+		],
+		"stars" : [
+			"William Holden",
+			"Alec Guinness",
+			"Jack Hawkins"
+		],
+		"summary" : "After settling his differences with a Japanese PoW camp commander, a British colonel co-operates to oversee his men's construction of a railway bridge for their captors - while oblivious to a plan by the Allies to destroy it.",
+		"link" : "http://www.imdb.com/title/tt0050212/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_132"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgwNTI3OTczOV5BMl5BanBnXkFtZTcwMTM3MTUyMw@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Secret in Their Eyes (2009) ",
+		"movie_year" : "2009",
+		"genres" : [
+			"Drama",
+			"Mystery",
+			"Thriller"
+		],
+		"directors" : [
+			"Juan José Campanella"
+		],
+		"stars" : [
+			"Ricardo Darín",
+			"Soledad Villamil",
+			"Pablo Rago"
+		],
+		"summary" : "A retired legal counselor writes a novel hoping to find closure for one of his past unresolved homicide cases and for his unreciprocated love with his superior - both of which still haunt him decades later.",
+		"link" : "http://www.imdb.com/title/tt1305806/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_133"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BZWZlYmEyYTItNGRjYy00ZmMxLWEzMWItM2Q2NjZlNTMwMjQ3XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Blade Runner (1982) ",
+		"movie_year" : "1982",
+		"genres" : [
+			"Sci-Fi",
+			"Thriller"
+		],
+		"directors" : [
+			"Ridley Scott"
+		],
+		"stars" : [
+			"Harrison Ford",
+			"Rutger Hauer",
+			"Sean Young"
+		],
+		"summary" : "A blade runner must pursue and try to terminate four replicants who stole a ship in space and have returned to Earth to find their creator.",
+		"link" : "http://www.imdb.com/title/tt0083658/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_134"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUzODUyNjkxM15BMl5BanBnXkFtZTcwODA5MTM1Mg@@._V1_UY268_CR4,0,182,268_AL_.jpg",
+		"movie_title" : "The Seventh Seal (1957) ",
+		"movie_year" : "1957",
+		"genres" : [
+			"Drama",
+			"Fantasy"
+		],
+		"directors" : [
+			"Ingmar Bergman"
+		],
+		"stars" : [
+			"Max von Sydow",
+			"Gunnar Björnstrand",
+			"Bengt Ekerot"
+		],
+		"summary" : "A man seeks answers about life, death, and the existence of God as he plays chess against the Grim Reaper during the Black Plague.",
+		"link" : "http://www.imdb.com/title/tt0050976/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_135"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQxMjk5ODUxMl5BMl5BanBnXkFtZTgwNDI2MjUwMzE@._V1_UY268_CR2,0,182,268_AL_.jpg",
+		"movie_title" : "The Passion of Joan of Arc (1928) ",
+		"movie_year" : "1928",
+		"genres" : [
+			"Biography",
+			"Drama",
+			"History"
+		],
+		"directors" : [
+			"Carl Theodor Dreyer"
+		],
+		"stars" : [
+			"Maria Falconetti",
+			"Eugene Silvain",
+			"André Berley"
+		],
+		"summary" : "A chronicle of the trial of Jeanne d'Arc on charges of heresy, and the efforts of her ecclesiastical jurists to force Jeanne to recant her claims of holy visions.",
+		"link" : "http://www.imdb.com/title/tt0019254/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_136"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTAyN2JmZmEtNjAyMy00NzYwLThmY2MtYWQ3OGNhNjExMmM4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Lock, Stock and Two Smoking Barrels (1998) ",
+		"movie_year" : "1998",
+		"genres" : [
+			"Comedy",
+			"Crime"
+		],
+		"directors" : [
+			"Guy Ritchie"
+		],
+		"stars" : [
+			"Jason Flemyng",
+			"Dexter Fletcher",
+			"Nick Moran"
+		],
+		"summary" : "A botched card game in London triggers four friends, thugs, weed-growers, hard gangsters, loan sharks and debt collectors to collide with each other in a series of unexpected events, all for the sake of weed, cash and two antique shotguns.",
+		"link" : "http://www.imdb.com/title/tt0120735/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_137"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY1OTg0MjE3MV5BMl5BanBnXkFtZTcwNTUxMTkyMQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Howl's Moving Castle (2004) ",
+		"movie_year" : "2004",
+		"genres" : [
+			"Animation",
+			"Adventure",
+			"Family"
+		],
+		"directors" : [
+			"Hayao Miyazaki"
+		],
+		"stars" : [
+			"Chieko Baishô",
+			"Takuya Kimura",
+			"Tatsuya Gashûin"
+		],
+		"summary" : "When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.",
+		"link" : "http://www.imdb.com/title/tt0347149/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_138"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTcxOWYzNDYtYmM4YS00N2NkLTk0NTAtNjg1ODgwZjAxYzI3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Casino (1995) ",
+		"movie_year" : "1995",
+		"genres" : [
+			"Biography",
+			"Crime",
+			"Drama"
+		],
+		"directors" : [
+			"Martin Scorsese"
+		],
+		"stars" : [
+			"Robert De Niro",
+			"Sharon Stone",
+			"Joe Pesci"
+		],
+		"summary" : "Greed, deception, money, power, and murder occur between two best friends, a mafia underboss and a casino owner, for a trophy wife over a gambling empire.",
+		"link" : "http://www.imdb.com/title/tt0112641/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_139"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BNDc2ODQ5NTE2MV5BMl5BanBnXkFtZTcwODExMjUyNA@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Judgment at Nuremberg (1961) ",
+		"movie_year" : "1961",
+		"genres" : [
+			"Drama",
+			"War"
+		],
+		"directors" : [
+			"Stanley Kramer"
+		],
+		"stars" : [
+			"Spencer Tracy",
+			"Burt Lancaster",
+			"Richard Widmark"
+		],
+		"summary" : "In 1948, an American court in occupied Germany tries four Nazi judges for war crimes.",
+		"link" : "http://www.imdb.com/title/tt0055031/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_140"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjgwNjI3NTM1MF5BMl5BanBnXkFtZTgwNzY3MTUyMjE@._V1_UY268_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Wild Strawberries (1957) ",
+		"movie_year" : "1957",
+		"genres" : [
+			"Drama",
+			"Romance"
+		],
+		"directors" : [
+			"Ingmar Bergman"
+		],
+		"stars" : [
+			"Victor Sjöström",
+			"Bibi Andersson",
+			"Ingrid Thulin"
+		],
+		"summary" : "After living a life marked by coldness, an aging professor is forced to confront the emptiness of his existence.",
+		"link" : "http://www.imdb.com/title/tt0050986/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_141"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BODQxMzMyNTY5Nl5BMl5BanBnXkFtZTcwMDMyNTk3OA@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The General (1926) ",
+		"movie_year" : "1926",
+		"genres" : [
+			"Action",
+			"Adventure",
+			"Comedy"
+		],
+		"directors" : [
+			"Clyde Bruckman",
+			"Buster Keaton"
+		],
+		"stars" : [
+			"Buster Keaton",
+			"Marion Mack",
+			"Glen Cavender"
+		],
+		"summary" : "When Union spies steal an engineer's beloved locomotive, he pursues it single-handedly and straight through enemy lines.",
+		"link" : "http://www.imdb.com/title/tt0017925/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_142"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIzNzg4MzcxNV5BMl5BanBnXkFtZTgwMTgzNTE0MTE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Sunrise (1927) ",
+		"movie_year" : "1927",
+		"genres" : [
+			"Drama",
+			"Romance"
+		],
+		"directors" : [
+			"F.W. Murnau"
+		],
+		"stars" : [
+			"George O'Brien",
+			"Janet Gaynor",
+			"Margaret Livingston"
+		],
+		"summary" : "A married farmer falls under the spell of a slatternly woman from the city, who tries to convince him to drown his wife.",
+		"link" : "http://www.imdb.com/title/tt0018455/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_143"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMDVjNjIwOGItNDE3Ny00OThjLWE0NzQtZTU3YjMzZTZjMzhkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Elephant Man (1980) ",
+		"movie_year" : "1980",
+		"genres" : [
+			"Biography",
+			"Drama"
+		],
+		"directors" : [
+			"David Lynch"
+		],
+		"stars" : [
+			"Anthony Hopkins",
+			"John Hurt",
+			"Anne Bancroft"
+		],
+		"summary" : "A Victorian surgeon rescues a heavily disfigured man who is mistreated while scraping a living as a side-show freak. Behind his monstrous facade, there is revealed a person of intelligence and sensitivity.",
+		"link" : "http://www.imdb.com/title/tt0080678/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_144"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "A Beautiful Mind (2001) ",
+		"movie_year" : "2001",
+		"genres" : [
+			"Biography",
+			"Drama"
+		],
+		"directors" : [
+			"Ron Howard"
+		],
+		"stars" : [
+			"Russell Crowe",
+			"Ed Harris",
+			"Jennifer Connelly"
+		],
+		"summary" : "After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.",
+		"link" : "http://www.imdb.com/title/tt0268978/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_145"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk4ODk5MTMyNV5BMl5BanBnXkFtZTcwMDMyNTg0Ng@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Warrior (2011) ",
+		"movie_year" : "2011",
+		"genres" : [
+			"Drama",
+			"Sport"
+		],
+		"directors" : [
+			"Gavin O'Connor"
+		],
+		"stars" : [
+			"Tom Hardy",
+			"Nick Nolte",
+			"Joel Edgerton"
+		],
+		"summary" : "The youngest son of an alcoholic former boxer returns home, where he's trained by his father for competition in a mixed martial arts tournament - a path that puts the fighter on a collision course with his estranged, older brother.",
+		"link" : "http://www.imdb.com/title/tt1291584/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_146"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Wolf of Wall Street (2013) ",
+		"movie_year" : "2013",
+		"genres" : [
+			"Biography",
+			"Comedy",
+			"Crime"
+		],
+		"directors" : [
+			"Martin Scorsese"
+		],
+		"stars" : [
+			"Leonardo DiCaprio",
+			"Jonah Hill",
+			"Margot Robbie"
+		],
+		"summary" : "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+		"link" : "http://www.imdb.com/title/tt0993846/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_147"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "V for Vendetta (2005) ",
+		"movie_year" : "2005",
+		"genres" : [
+			"Action",
+			"Drama",
+			"Thriller"
+		],
+		"directors" : [
+			"James McTeigue"
+		],
+		"stars" : [
+			"Hugo Weaving",
+			"Natalie Portman",
+			"Rupert Graves"
+		],
+		"summary" : "In a future British tyranny, a shadowy freedom fighter, known only by the alias of 'V', plots to overthrow it with the help of a young woman.",
+		"link" : "http://www.imdb.com/title/tt0434409/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_148"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg4MzA0NjI5OF5BMl5BanBnXkFtZTcwNTUwMzQzNg@@._V1_UY268_CR4,0,182,268_AL_.jpg",
+		"movie_title" : "Incendies (2010) ",
+		"movie_year" : "2010",
+		"genres" : [
+			"Drama",
+			"Mystery",
+			"War"
+		],
+		"directors" : [
+			"Denis Villeneuve"
+		],
+		"stars" : [
+			"Lubna Azabal",
+			"Mélissa Désormeaux-Poulin",
+			"Maxim Gaudette"
+		],
+		"summary" : "Twins journey to the Middle East to discover their family history, and fulfill their mother's last wishes.",
+		"link" : "http://www.imdb.com/title/tt1255953/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_149"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQyMTczMTAxMl5BMl5BanBnXkFtZTcwOTc1ODE0Mg@@._V1_UY268_CR3,0,182,268_AL_.jpg",
+		"movie_title" : "Gran Torino (2008) ",
+		"movie_year" : "2008",
+		"genres" : [
+			"Drama"
+		],
+		"directors" : [
+			"Clint Eastwood"
+		],
+		"stars" : [
+			"Clint Eastwood",
+			"Bee Vang",
+			"Christopher Carley"
+		],
+		"summary" : "Disgruntled Korean War veteran Walt Kowalski sets out to reform his neighbor, a Hmong teenager who tried to steal Kowalski's prized possession: a 1972 Gran Torino.",
+		"link" : "http://www.imdb.com/title/tt1205489/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_150"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMmIxZGIzZmMtMGU3Ny00OWU2LWI2NjMtZmVjN2M0MDYwMmVlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY268_CR4,0,182,268_AL_.jpg",
+		"movie_title" : "Tokyo Story (1953) ",
+		"movie_year" : "1953",
+		"genres" : [
+			"Drama"
+		],
+		"directors" : [
+			"Yasujirô Ozu"
+		],
+		"stars" : [
+			"Chishû Ryû",
+			"Chieko Higashiyama",
+			"Sô Yamamura"
+		],
+		"summary" : "An old couple visit their children and grandchildren in the city; but the children have little time for them.",
+		"link" : "http://www.imdb.com/title/tt0046438/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_151"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BZTFjMjBiYzItNzU5YS00MjdiLWJkOTktNDQ3MTE3ZjY2YTY5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Big Lebowski (1998) ",
+		"movie_year" : "1998",
+		"genres" : [
+			"Comedy",
+			"Crime"
+		],
+		"directors" : [
+			"Joel Coen",
+			"Ethan Coen"
+		],
+		"stars" : [
+			"Jeff Bridges",
+			"John Goodman",
+			"Julianne Moore"
+		],
+		"summary" : "'The Dude' Lebowski, mistaken for a millionaire Lebowski, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.",
+		"link" : "http://www.imdb.com/title/tt0118715/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_152"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzYmRmZTQtYjk2NS00MDdlLTkxMDAtMTE2YTM2ZmNlMTBkXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Deer Hunter (1978) ",
+		"movie_year" : "1978",
+		"genres" : [
+			"Drama",
+			"War"
+		],
+		"directors" : [
+			"Michael Cimino"
+		],
+		"stars" : [
+			"Robert De Niro",
+			"Christopher Walken",
+			"John Cazale"
+		],
+		"summary" : "An in-depth examination of the ways in which the U.S. Vietnam War impacts and disrupts the lives of people in a small industrial town in Pennsylvania.",
+		"link" : "http://www.imdb.com/title/tt0077416/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_153"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkyNzc4ODk4N15BMl5BanBnXkFtZTcwMDE5ODEwNA@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Dial M for Murder (1954) ",
+		"movie_year" : "1954",
+		"genres" : [
+			"Crime",
+			"Film-Noir",
+			"Thriller"
+		],
+		"directors" : [
+			"Alfred Hitchcock"
+		],
+		"stars" : [
+			"Ray Milland",
+			"Grace Kelly",
+			"Robert Cummings"
+		],
+		"summary" : "An ex-tennis pro carries out a plot to murder his wife. When things go wrong, he improvises a brilliant plan B.",
+		"link" : "http://www.imdb.com/title/tt0046912/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_154"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMzA5Zjc3ZTMtMmU5YS00YTMwLWI4MWUtYTU0YTVmNjVmODZhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Trainspotting (1996) ",
+		"movie_year" : "1996",
+		"genres" : [
+			"Drama"
+		],
+		"directors" : [
+			"Danny Boyle"
+		],
+		"stars" : [
+			"Ewan McGregor",
+			"Ewen Bremner",
+			"Jonny Lee Miller"
+		],
+		"summary" : "Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out, despite the allure of the drugs and influence of friends.",
+		"link" : "http://www.imdb.com/title/tt0117951/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_155"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BYTA4NzE5M2UtYWQwMC00YjNjLWJiNGEtYWJjYzkwNjIzMWUzXkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Gone with the Wind (1939) ",
+		"movie_year" : "1939",
+		"genres" : [
+			"Drama",
+			"History",
+			"Romance"
+		],
+		"directors" : [
+			"Victor Fleming",
+			"George Cukor"
+		],
+		"stars" : [
+			"Clark Gable",
+			"Vivien Leigh",
+			"Thomas Mitchell"
+		],
+		"summary" : "A manipulative Southern belle carries on a turbulent affair with a blockade runner during the American Civil War.",
+		"link" : "http://www.imdb.com/title/tt0031381/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_156"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Star Wars: The Force Awakens (2015) ",
+		"movie_year" : "2015",
+		"genres" : [
+			"Action",
+			"Adventure",
+			"Fantasy"
+		],
+		"directors" : [
+			"J.J. Abrams"
+		],
+		"stars" : [
+			"Daisy Ridley",
+			"John Boyega",
+			"Oscar Isaac"
+		],
+		"summary" : "Three decades after the defeat of the Galactic Empire, a new threat arises. The First Order attempts to rule the galaxy and only a ragtag group of heroes can stop them, along with the help of the Resistance.",
+		"link" : "http://www.imdb.com/title/tt2488496/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_157"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgxNzY3MzUxOV5BMl5BanBnXkFtZTcwMDA0NjMyNA@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Fargo (1996) ",
+		"movie_year" : "1996",
+		"genres" : [
+			"Crime",
+			"Drama",
+			"Thriller"
+		],
+		"directors" : [
+			"Joel Coen",
+			"Ethan Coen"
+		],
+		"stars" : [
+			"William H. Macy",
+			"Frances McDormand",
+			"Steve Buscemi"
+		],
+		"summary" : "Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.",
+		"link" : "http://www.imdb.com/title/tt0116282/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_158"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM5ODA4ODMzM15BMl5BanBnXkFtZTcwOTA2NTEwNA@@._V1._CR9,22,314,458_UY268_CR1,0,182,268_AL_.jpg",
+		"movie_title" : "Rebecca (1940) ",
+		"movie_year" : "1940",
+		"genres" : [
+			"Drama",
+			"Film-Noir",
+			"Mystery"
+		],
+		"directors" : [
+			"Alfred Hitchcock"
+		],
+		"stars" : [
+			"Laurence Olivier",
+			"Joan Fontaine",
+			"George Sanders"
+		],
+		"summary" : "A self-conscious bride is tormented by the memory of her husband's dead first wife.",
+		"link" : "http://www.imdb.com/title/tt0032976/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_159"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BOWFlNzZhYmYtYTI5YS00MDQyLWIyNTUtNTRjMWUwNTEzNjA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Cool Hand Luke (1967) ",
+		"movie_year" : "1967",
+		"genres" : [
+			"Drama"
+		],
+		"directors" : [
+			"Stuart Rosenberg"
+		],
+		"stars" : [
+			"Paul Newman",
+			"George Kennedy",
+			"Strother Martin"
+		],
+		"summary" : "A man refuses to conform to life in a rural prison.",
+		"link" : "http://www.imdb.com/title/tt0061512/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_160"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BZTAzNWZlNmUtZDEzYi00ZjA5LWIwYjEtZGM1NWE1MjE4YWRhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Finding Nemo (2003) ",
+		"movie_year" : "2003",
+		"genres" : [
+			"Animation",
+			"Adventure",
+			"Comedy"
+		],
+		"directors" : [
+			"Andrew Stanton",
+			"Lee Unkrich"
+		],
+		"stars" : [
+			"Albert Brooks",
+			"Ellen DeGeneres",
+			"Alexander Gould"
+		],
+		"summary" : "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
+		"link" : "http://www.imdb.com/title/tt0266543/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_161"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "How to Train Your Dragon (2010) ",
+		"movie_year" : "2010",
+		"genres" : [
+			"Animation",
+			"Action",
+			"Adventure"
+		],
+		"directors" : [
+			"Dean DeBlois",
+			"Chris Sanders"
+		],
+		"stars" : [
+			"Jay Baruchel",
+			"Gerard Butler",
+			"Christopher Mintz-Plasse"
+		],
+		"summary" : "A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.",
+		"link" : "http://www.imdb.com/title/tt0892769/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_162"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMWM4NTFhYjctNzUyNi00NGMwLTk3NTYtMDIyNTZmMzRlYmQyXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Sixth Sense (1999) ",
+		"movie_year" : "1999",
+		"genres" : [
+			"Drama",
+			"Mystery",
+			"Thriller"
+		],
+		"directors" : [
+			"M. Night Shyamalan"
+		],
+		"stars" : [
+			"Bruce Willis",
+			"Haley Joel Osment",
+			"Toni Collette"
+		],
+		"summary" : "A boy who communicates with spirits that don't know they're dead seeks the help of a disheartened child psychologist.",
+		"link" : "http://www.imdb.com/title/tt0167404/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_163"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTRlMGIzYjItNTUwYS00OTc2LTk0ODktMGRjYWNlOTg3NzkwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Thing (1982) ",
+		"movie_year" : "1982",
+		"genres" : [
+			"Horror",
+			"Mystery",
+			"Sci-Fi"
+		],
+		"directors" : [
+			"John Carpenter"
+		],
+		"stars" : [
+			"Kurt Russell",
+			"Wilford Brimley",
+			"Keith David"
+		],
+		"summary" : "It's the first week of winter in 1982. An American Research Base is greeted by an alien force, that can assimilate anything it touches. It's up to the members to stay alive, and be sure of who is human, and who has become one of the Things.",
+		"link" : "http://www.imdb.com/title/tt0084787/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_164"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_UY268_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "No Country for Old Men (2007) ",
+		"movie_year" : "2007",
+		"genres" : [
+			"Crime",
+			"Drama",
+			"Thriller"
+		],
+		"directors" : [
+			"Ethan Coen",
+			"Joel Coen"
+		],
+		"stars" : [
+			"Tommy Lee Jones",
+			"Javier Bardem",
+			"Josh Brolin"
+		],
+		"summary" : "Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.",
+		"link" : "http://www.imdb.com/title/tt0477348/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_165"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTAwNDEyODU1MjheQTJeQWpwZ15BbWU2MDc3NDQwNw@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Into the Wild (2007) ",
+		"movie_year" : "2007",
+		"genres" : [
+			"Adventure",
+			"Biography",
+			"Drama"
+		],
+		"directors" : [
+			"Sean Penn"
+		],
+		"stars" : [
+			"Emile Hirsch",
+			"Vince Vaughn",
+			"Catherine Keener"
+		],
+		"summary" : "After graduating from Emory University, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity and hitchhikes to Alaska to live in the wilderness. Along the way, Christopher encounters a series of characters that shape his life.",
+		"link" : "http://www.imdb.com/title/tt0758758/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_166"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1NDIyNTA1Nl5BMl5BanBnXkFtZTcwMjc2Njk3OA@@._V1_UY268_CR3,0,182,268_AL_.jpg",
+		"movie_title" : "Mary and Max (2009) ",
+		"movie_year" : "2009",
+		"genres" : [
+			"Animation",
+			"Comedy",
+			"Drama"
+		],
+		"directors" : [
+			"Adam Elliot"
+		],
+		"stars" : [
+			"Toni Collette",
+			"Philip Seymour Hoffman",
+			"Eric Bana"
+		],
+		"summary" : "A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York.",
+		"link" : "http://www.imdb.com/title/tt0978762/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_167"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU1NDg1Mzg4M15BMl5BanBnXkFtZTYwMDExOTc3._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Kill Bill: Vol. 1 (2003) ",
+		"movie_year" : "2003",
+		"genres" : [
+			"Action",
+			"Thriller"
+		],
+		"directors" : [
+			"Quentin Tarantino"
+		],
+		"stars" : [
+			"Uma Thurman",
+			"David Carradine",
+			"Daryl Hannah"
+		],
+		"summary" : "The Bride wakens from a four-year coma. The child she carried in her womb is gone. Now she must wreak vengeance on the team of assassins who betrayed her - a team she was once part of.",
+		"link" : "http://www.imdb.com/title/tt0266697/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_168"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Gone Girl (2014) ",
+		"movie_year" : "2014",
+		"genres" : [
+			"Crime",
+			"Drama",
+			"Mystery"
+		],
+		"directors" : [
+			"David Fincher"
+		],
+		"stars" : [
+			"Ben Affleck",
+			"Rosamund Pike",
+			"Neil Patrick Harris"
+		],
+		"summary" : "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+		"link" : "http://www.imdb.com/title/tt2267998/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_169"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIyMjM4NTQ2OF5BMl5BanBnXkFtZTgwOTM4MTI2MTE@._V1_UY268_CR2,0,182,268_AL_.jpg",
+		"movie_title" : "Come and See (1985) ",
+		"movie_year" : "1985",
+		"genres" : [
+			"Drama",
+			"War"
+		],
+		"directors" : [
+			"Elem Klimov"
+		],
+		"stars" : [
+			"Aleksey Kravchenko",
+			"Olga Mironova",
+			"Liubomiras Laucevicius"
+		],
+		"summary" : "After finding an old rifle, a young boy joins the Soviet resistance movement against ruthless German forces and experiences the horrors of World War II.",
+		"link" : "http://www.imdb.com/title/tt0091251/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_170"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE0OTY0ODk2MF5BMl5BanBnXkFtZTcwNjQ5NjIzMQ@@._V1_UY268_CR5,0,182,268_AL_.jpg",
+		"movie_title" : "The Message (1976) ",
+		"movie_year" : "1976",
+		"genres" : [
+			"Adventure",
+			"Biography",
+			"Drama"
+		],
+		"directors" : [
+			"Moustapha Akkad"
+		],
+		"stars" : [
+			"Anthony Quinn",
+			"Irene Papas",
+			"Michael Ansara"
+		],
+		"summary" : "In the 7th century, Mohammed is visited by Angel Gabriel who urges him to lead the people of Mecca and worship God. But they're exiled in Medina before returning to Mecca to take up arms ... See full summary »",
+		"link" : "http://www.imdb.com/title/tt0074896/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_171"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTczOTQ1MTQ4MF5BMl5BanBnXkFtZTcwODI2MDk4OQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "It Happened One Night (1934) ",
+		"movie_year" : "1934",
+		"genres" : [
+			"Comedy",
+			"Romance"
+		],
+		"directors" : [
+			"Frank Capra"
+		],
+		"stars" : [
+			"Clark Gable",
+			"Claudette Colbert",
+			"Walter Connolly"
+		],
+		"summary" : "A spoiled heiress, running away from her family, is helped by a man who is actually a reporter in need of a story.",
+		"link" : "http://www.imdb.com/title/tt0025316/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_172"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "There Will Be Blood (2007) ",
+		"movie_year" : "2007",
+		"genres" : [
+			"Drama"
+		],
+		"directors" : [
+			"Paul Thomas Anderson"
+		],
+		"stars" : [
+			"Daniel Day-Lewis",
+			"Paul Dano",
+			"Ciarán Hinds"
+		],
+		"summary" : "A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business.",
+		"link" : "http://www.imdb.com/title/tt0469494/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_173"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMzAwNjU1OTktYjY3Mi00NDY5LWFlZWUtZjhjNGE0OTkwZDkwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Life of Brian (1979) ",
+		"movie_year" : "1979",
+		"genres" : [
+			"Comedy"
+		],
+		"directors" : [
+			"Terry Jones"
+		],
+		"stars" : [
+			"Graham Chapman",
+			"John Cleese",
+			"Michael Palin"
+		],
+		"summary" : "Brian is born on the original Christmas, in the stable next door. He spends his life being mistaken for a messiah.",
+		"link" : "http://www.imdb.com/title/tt0079470/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_174"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQyMDE0MTY0OV5BMl5BanBnXkFtZTcwMjI2OTI0OQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Rush (2013) ",
+		"movie_year" : "2013",
+		"genres" : [
+			"Action",
+			"Biography",
+			"Drama"
+		],
+		"directors" : [
+			"Ron Howard"
+		],
+		"stars" : [
+			"Daniel Brühl",
+			"Chris Hemsworth",
+			"Olivia Wilde"
+		],
+		"summary" : "The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.",
+		"link" : "http://www.imdb.com/title/tt1979320/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_175"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI2MzQyNTc1M15BMl5BanBnXkFtZTYwMjExNjc3._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Hotel Rwanda (2004) ",
+		"movie_year" : "2004",
+		"genres" : [
+			"Drama",
+			"History",
+			"War"
+		],
+		"directors" : [
+			"Terry George"
+		],
+		"stars" : [
+			"Don Cheadle",
+			"Sophie Okonedo",
+			"Joaquin Phoenix"
+		],
+		"summary" : "Paul Rusesabagina was a hotel manager who housed over a thousand Tutsi refugees during their struggle against the Hutu militia in Rwanda.",
+		"link" : "http://www.imdb.com/title/tt0395169/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_176"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BNTU3NzY4ODY5MF5BMl5BanBnXkFtZTcwOTkzNzE1NA@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Platoon (1986) ",
+		"movie_year" : "1986",
+		"genres" : [
+			"Drama",
+			"War"
+		],
+		"directors" : [
+			"Oliver Stone"
+		],
+		"stars" : [
+			"Charlie Sheen",
+			"Tom Berenger",
+			"Willem Dafoe"
+		],
+		"summary" : "A young recruit in Vietnam faces a moral crisis when confronted with the horrors of war and the duality of man.",
+		"link" : "http://www.imdb.com/title/tt0091763/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_177"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTcwODQxMDg5OV5BMl5BanBnXkFtZTgwNjczMzkwMzE@._V1_UY268_CR3,0,182,268_AL_.jpg",
+		"movie_title" : "Nights of Cabiria (1957) ",
+		"movie_year" : "1957",
+		"genres" : [
+			"Drama"
+		],
+		"directors" : [
+			"Federico Fellini"
+		],
+		"stars" : [
+			"Giulietta Masina",
+			"François Périer",
+			"Franca Marzi"
+		],
+		"summary" : "A waifish prostitute wanders the streets of Rome looking for true love but finds only heartbreak.",
+		"link" : "http://www.imdb.com/title/tt0050783/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_178"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BNzk5MjcxNTg2MF5BMl5BanBnXkFtZTgwMzY2MTUxMDE@._V1_UY268_CR9,0,182,268_AL_.jpg",
+		"movie_title" : "Network (1976) ",
+		"movie_year" : "1976",
+		"genres" : [
+			"Drama"
+		],
+		"directors" : [
+			"Sidney Lumet"
+		],
+		"stars" : [
+			"Faye Dunaway",
+			"William Holden",
+			"Peter Finch"
+		],
+		"summary" : "A television network cynically exploits a deranged former anchor's ravings and revelations about the news media for its own profit.",
+		"link" : "http://www.imdb.com/title/tt0074958/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_179"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5MzkyNDgyMF5BMl5BanBnXkFtZTgwODg2MTMzMjE@._V1_UY268_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Wages of Fear (1953) ",
+		"movie_year" : "1953",
+		"genres" : [
+			"Adventure",
+			"Drama",
+			"Thriller"
+		],
+		"directors" : [
+			"Henri-Georges Clouzot"
+		],
+		"stars" : [
+			"Yves Montand",
+			"Charles Vanel",
+			"Peter van Eyck"
+		],
+		"summary" : "In a decrepit South American village, men are hired to transport an urgent nitroglycerine shipment without the equipment that would make it safe.",
+		"link" : "http://www.imdb.com/title/tt0046268/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_180"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Spotlight (2015) ",
+		"movie_year" : "2015",
+		"genres" : [
+			"Biography",
+			"Crime",
+			"Drama"
+		],
+		"directors" : [
+			"Tom McCarthy"
+		],
+		"stars" : [
+			"Mark Ruffalo",
+			"Michael Keaton",
+			"Rachel McAdams"
+		],
+		"summary" : "The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.",
+		"link" : "http://www.imdb.com/title/tt1895587/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_181"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMxMTIyNzMxMV5BMl5BanBnXkFtZTcwOTc4OTI3Mg@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Shutter Island (2010) ",
+		"movie_year" : "2010",
+		"genres" : [
+			"Mystery",
+			"Thriller"
+		],
+		"directors" : [
+			"Martin Scorsese"
+		],
+		"stars" : [
+			"Leonardo DiCaprio",
+			"Emily Mortimer",
+			"Mark Ruffalo"
+		],
+		"summary" : "In 1954, a U.S. marshal investigates the disappearance of a murderess who escaped from a hospital for the criminally insane.",
+		"link" : "http://www.imdb.com/title/tt1130884/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_182"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc4MDEzOTMwMl5BMl5BanBnXkFtZTgwMTc2NjgyMjE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Maltese Falcon (1941) ",
+		"movie_year" : "1941",
+		"genres" : [
+			"Film-Noir",
+			"Mystery"
+		],
+		"directors" : [
+			"John Huston"
+		],
+		"stars" : [
+			"Humphrey Bogart",
+			"Mary Astor",
+			"Gladys George"
+		],
+		"summary" : "A private detective takes on a case that involves him with three eccentric criminals, a gorgeous liar, and their quest for a priceless statuette.",
+		"link" : "http://www.imdb.com/title/tt0033870/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_183"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkyMTM2NDk5Nl5BMl5BanBnXkFtZTgwNzY1NzEyMDE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Butch Cassidy and the Sundance Kid (1969) ",
+		"movie_year" : "1969",
+		"genres" : [
+			"Biography",
+			"Crime",
+			"Drama"
+		],
+		"directors" : [
+			"George Roy Hill"
+		],
+		"stars" : [
+			"Paul Newman",
+			"Robert Redford",
+			"Katharine Ross"
+		],
+		"summary" : "Two Western bank/train robbers flee to Bolivia when the law gets too close.",
+		"link" : "http://www.imdb.com/title/tt0064115/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_184"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUyMTE0ODcxNF5BMl5BanBnXkFtZTgwODE4NDQzNTE@._V1_UY268_CR1,0,182,268_AL_.jpg",
+		"movie_title" : "Mad Max: Fury Road (2015) ",
+		"movie_year" : "2015",
+		"genres" : [
+			"Action",
+			"Adventure",
+			"Sci-Fi"
+		],
+		"directors" : [
+			"George Miller"
+		],
+		"stars" : [
+			"Tom Hardy",
+			"Charlize Theron",
+			"Nicholas Hoult"
+		],
+		"summary" : "A woman rebels against a tyrannical ruler in postapocalyptic Australia in search for her home-land with the help of a group of female prisoners, a psychotic worshipper, and a drifter named Max.",
+		"link" : "http://www.imdb.com/title/tt1392190/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_185"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BZWRmOGU2M2ItMTJhMi00ZDA3LWJhOWItYWQ3NjI5NjEyNTFlXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UY268_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Stand by Me (1986) ",
+		"movie_year" : "1986",
+		"genres" : [
+			"Adventure",
+			"Drama"
+		],
+		"directors" : [
+			"Rob Reiner"
+		],
+		"stars" : [
+			"Wil Wheaton",
+			"River Phoenix",
+			"Corey Feldman"
+		],
+		"summary" : "After the death of a friend, a writer recounts a boyhood journey to find the body of a missing boy.",
+		"link" : "http://www.imdb.com/title/tt0092005/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_186"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTcwNjMyMzI0OV5BMl5BanBnXkFtZTgwMDU4NjkzMTE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "In the Name of the Father (1993) ",
+		"movie_year" : "1993",
+		"genres" : [
+			"Biography",
+			"Drama",
+			"History"
+		],
+		"directors" : [
+			"Jim Sheridan"
+		],
+		"stars" : [
+			"Daniel Day-Lewis",
+			"Pete Postlethwaite",
+			"Alison Crosbie"
+		],
+		"summary" : "A man's coerced confession to an IRA bombing he did not commit results in the imprisonment of his father as well. An English lawyer fights to free them.",
+		"link" : "http://www.imdb.com/title/tt0107207/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_187"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQzNTMzOTA2Ml5BMl5BanBnXkFtZTgwNDQ2OTI3MjE@._V1_UY268_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The 400 Blows (1959) ",
+		"movie_year" : "1959",
+		"genres" : [
+			"Crime",
+			"Drama"
+		],
+		"directors" : [
+			"François Truffaut"
+		],
+		"stars" : [
+			"Jean-Pierre Léaud",
+			"Albert Rémy",
+			"Claire Maurier"
+		],
+		"summary" : "Moving story of a young boy who, left without attention, delves into a life of petty crime.",
+		"link" : "http://www.imdb.com/title/tt0053198/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_188"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "12 Years a Slave (2013) ",
+		"movie_year" : "2013",
+		"genres" : [
+			"Biography",
+			"Drama",
+			"History"
+		],
+		"directors" : [
+			"Steve McQueen"
+		],
+		"stars" : [
+			"Chiwetel Ejiofor",
+			"Michael Kenneth Williams",
+			"Michael Fassbender"
+		],
+		"summary" : "In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.",
+		"link" : "http://www.imdb.com/title/tt2024544/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_189"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc1OTgxNjYyNF5BMl5BanBnXkFtZTcwNjM2MjM2NQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Persona (1966) ",
+		"movie_year" : "1966",
+		"genres" : [
+			"Drama",
+			"Thriller"
+		],
+		"directors" : [
+			"Ingmar Bergman"
+		],
+		"stars" : [
+			"Bibi Andersson",
+			"Liv Ullmann",
+			"Margaretha Krook"
+		],
+		"summary" : "A nurse is put in charge of an actress who can't talk and finds that the actress's persona is melding with hers.",
+		"link" : "http://www.imdb.com/title/tt0060827/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_190"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BNzAzMjA1ODAxOV5BMl5BanBnXkFtZTgwODg4NTQzNDE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Relatos salvajes (2014) ",
+		"movie_year" : "2014",
+		"genres" : [
+			"Comedy",
+			"Drama",
+			"Thriller"
+		],
+		"directors" : [
+			"Damián Szifrón"
+		],
+		"stars" : [
+			"Darío Grandinetti",
+			"María Marull",
+			"Mónica Villa"
+		],
+		"summary" : "Six short stories that explore the extremities of human behavior involving people in distress.",
+		"link" : "http://www.imdb.com/title/tt3011894/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_191"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Grand Budapest Hotel (2014) ",
+		"movie_year" : "2014",
+		"genres" : [
+			"Adventure",
+			"Comedy",
+			"Crime"
+		],
+		"directors" : [
+			"Wes Anderson"
+		],
+		"stars" : [
+			"Ralph Fiennes",
+			"F. Murray Abraham",
+			"Mathieu Amalric"
+		],
+		"summary" : "The adventures of Gustave H, a legendary concierge at a famous hotel from the fictional Republic of Zubrowka between the first and second World Wars, and Zero Moustafa, the lobby boy who becomes his most trusted friend.",
+		"link" : "http://www.imdb.com/title/tt2278388/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_192"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BNjg2NjA3NDY2OV5BMl5BanBnXkFtZTgwNzE3NTkxMTE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Ben-Hur (1959) ",
+		"movie_year" : "1959",
+		"genres" : [
+			"Adventure",
+			"Drama",
+			"History"
+		],
+		"directors" : [
+			"William Wyler"
+		],
+		"stars" : [
+			"Charlton Heston",
+			"Jack Hawkins",
+			"Stephen Boyd"
+		],
+		"summary" : "When a Jewish prince is betrayed and sent into slavery by a Roman friend, he regains his freedom and comes back for revenge.",
+		"link" : "http://www.imdb.com/title/tt0052618/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_193"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BZjYwYzliYTktMzk3MS00MzE0LTllM2QtMDk3MTFmOGQ2MjE0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Amores Perros (2000) ",
+		"movie_year" : "2000",
+		"genres" : [
+			"Drama",
+			"Thriller"
+		],
+		"directors" : [
+			"Alejandro G. Iñárritu"
+		],
+		"stars" : [
+			"Emilio Echevarría",
+			"Gael García Bernal",
+			"Goya Toledo"
+		],
+		"summary" : "A horrific car accident connects three stories, each involving characters dealing with loss, regret, and life's harsh realities, all in the name of love.",
+		"link" : "http://www.imdb.com/title/tt0245712/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_194"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxNzA1NDQxOV5BMl5BanBnXkFtZTcwNTkyMTIzMw@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Million Dollar Baby (2004) ",
+		"movie_year" : "2004",
+		"genres" : [
+			"Drama",
+			"Sport"
+		],
+		"directors" : [
+			"Clint Eastwood"
+		],
+		"stars" : [
+			"Hilary Swank",
+			"Clint Eastwood",
+			"Morgan Freeman"
+		],
+		"summary" : "A determined woman works with a hardened boxing trainer to become a professional.",
+		"link" : "http://www.imdb.com/title/tt0405159/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_195"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMGM4M2Q5N2MtNThkZS00NTc1LTk1NTItNWEyZjJjNDRmNDk5XkEyXkFqcGdeQXVyMjA0MDQ0Mjc@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Princess Bride (1987) ",
+		"movie_year" : "1987",
+		"genres" : [
+			"Adventure",
+			"Family",
+			"Fantasy"
+		],
+		"directors" : [
+			"Rob Reiner"
+		],
+		"stars" : [
+			"Cary Elwes",
+			"Mandy Patinkin",
+			"Robin Wright"
+		],
+		"summary" : "While home sick in bed, a young boy's grandfather reads him a story called The Princess Bride.",
+		"link" : "http://www.imdb.com/title/tt0093779/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_196"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Jurassic Park (1993) ",
+		"movie_year" : "1993",
+		"genres" : [
+			"Adventure",
+			"Sci-Fi",
+			"Thriller"
+		],
+		"directors" : [
+			"Steven Spielberg"
+		],
+		"stars" : [
+			"Sam Neill",
+			"Laura Dern",
+			"Jeff Goldblum"
+		],
+		"summary" : "During a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok.",
+		"link" : "http://www.imdb.com/title/tt0107290/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_197"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BOTMyMjEyNzIzMV5BMl5BanBnXkFtZTgwNzIyNjU0NzE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Zootopia (2016) ",
+		"movie_year" : "2016",
+		"genres" : [
+			"Animation",
+			"Adventure",
+			"Comedy"
+		],
+		"directors" : [
+			"Byron Howard",
+			"Rich Moore"
+		],
+		"stars" : [
+			"Ginnifer Goodwin",
+			"Jason Bateman",
+			"Idris Elba"
+		],
+		"summary" : "In a city of anthropomorphic animals, a rookie bunny cop and a cynical con artist fox must work together to uncover a conspiracy.",
+		"link" : "http://www.imdb.com/title/tt2948356/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_198"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTAxMDA2MjM4NDReQTJeQWpwZ15BbWU3MDE0NTgxMTM@._V1_UY268_CR2,0,182,268_AL_.jpg",
+		"movie_title" : "Hachi: A Dog's Tale (2009) ",
+		"movie_year" : "2009",
+		"genres" : [
+			"Drama",
+			"Family"
+		],
+		"directors" : [
+			"Lasse Hallström"
+		],
+		"stars" : [
+			"Richard Gere",
+			"Joan Allen",
+			"Cary-Hiroyuki Tagawa"
+		],
+		"summary" : "A college professor's bond with the abandoned dog he takes into his home.",
+		"link" : "http://www.imdb.com/title/tt1028532/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_199"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BOTBlNGM0MjMtMDBhNi00NGJhLTliOTUtNDdlNjUwMTBkOTE1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Touch of Evil (1958) ",
+		"movie_year" : "1958",
+		"genres" : [
+			"Crime",
+			"Drama",
+			"Film-Noir"
+		],
+		"directors" : [
+			"Orson Welles"
+		],
+		"stars" : [
+			"Charlton Heston",
+			"Orson Welles",
+			"Janet Leigh"
+		],
+		"summary" : "A stark, perverse story of murder, kidnapping, and police corruption in a Mexican border town.",
+		"link" : "http://www.imdb.com/title/tt0052311/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_200"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BOWU0NzY2YjktYmY2Ni00ODZmLWJjYjctOWY1MzBkOWM4M2MwXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_UY268_CR3,0,182,268_AL_.jpg",
+		"movie_title" : "Nausicaä of the Valley of the Wind (1984) ",
+		"movie_year" : "1984",
+		"genres" : [
+			"Animation",
+			"Adventure",
+			"Fantasy"
+		],
+		"directors" : [
+			"Hayao Miyazaki"
+		],
+		"stars" : [
+			"Sumi Shimamoto",
+			"Mahito Tsujimura",
+			"Hisako Kyôda"
+		],
+		"summary" : "Warrior/pacifist Princess Nausicaä desperately struggles to prevent two warring nations from destroying themselves and their dying planet.",
+		"link" : "http://www.imdb.com/title/tt0087544/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_201"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMzgzNjcxNjg2M15BMl5BanBnXkFtZTcwMjQxNDQ3Mg@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Grapes of Wrath (1940) ",
+		"movie_year" : "1940",
+		"genres" : [
+			"Drama",
+			"History"
+		],
+		"directors" : [
+			"John Ford"
+		],
+		"stars" : [
+			"Henry Fonda",
+			"Jane Darwell",
+			"John Carradine"
+		],
+		"summary" : "A poor Midwest family is forced off of their land. They travel to California, suffering the misfortunes of the homeless in the Great Depression.",
+		"link" : "http://www.imdb.com/title/tt0032551/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_202"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BNDY2NjU0NDAxOF5BMl5BanBnXkFtZTgwNjQ4MTI2MTE@._V1_UY268_CR3,0,182,268_AL_.jpg",
+		"movie_title" : "Stalker (1979) ",
+		"movie_year" : "1979",
+		"genres" : [
+			"Drama",
+			"Sci-Fi"
+		],
+		"directors" : [
+			"Andrei Tarkovsky"
+		],
+		"stars" : [
+			"Alisa Freyndlikh",
+			"Aleksandr Kaydanovskiy",
+			"Anatoliy Solonitsyn"
+		],
+		"summary" : "A guide leads two men through an area known as the Zone to find a room that grants wishes.",
+		"link" : "http://www.imdb.com/title/tt0079944/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_203"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU1NDM2MjkwM15BMl5BanBnXkFtZTcwODU3OTYwNA@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Annie Hall (1977) ",
+		"movie_year" : "1977",
+		"genres" : [
+			"Comedy",
+			"Romance"
+		],
+		"directors" : [
+			"Woody Allen"
+		],
+		"stars" : [
+			"Woody Allen",
+			"Diane Keaton",
+			"Tony Roberts"
+		],
+		"summary" : "Neurotic New York comedian Alvy Singer falls in love with the ditzy Annie Hall.",
+		"link" : "http://www.imdb.com/title/tt0075686/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_204"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BNWEyMThjODktYjJjZC00YzUxLTk1YmQtOGUwNjM3MGMzZTRhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY268_CR3,0,182,268_AL_.jpg",
+		"movie_title" : "Memories of Murder (2003) ",
+		"movie_year" : "2003",
+		"genres" : [
+			"Crime",
+			"Drama",
+			"Mystery"
+		],
+		"directors" : [
+			"Joon-ho Bong"
+		],
+		"stars" : [
+			"Kang-ho Song",
+			"Sang-kyung Kim",
+			"Roe-ha Kim"
+		],
+		"summary" : "In 1986, in the province of Gyunggi, in South Korea, a second young and beautiful woman is found dead, raped and tied and gagged with her underwear. Detective Park Doo-Man and Detective Cho... See full summary »",
+		"link" : "http://www.imdb.com/title/tt0353969/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_205"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Truman Show (1998) ",
+		"movie_year" : "1998",
+		"genres" : [
+			"Comedy",
+			"Drama",
+			"Sci-Fi"
+		],
+		"directors" : [
+			"Peter Weir"
+		],
+		"stars" : [
+			"Jim Carrey",
+			"Ed Harris",
+			"Laura Linney"
+		],
+		"summary" : "An insurance salesman/adjuster discovers his entire life is actually a television show.",
+		"link" : "http://www.imdb.com/title/tt0120382/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_206"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQyMTM3MTQxMl5BMl5BanBnXkFtZTcwMDAzNjQ4Mg@@._V1_UY268_CR1,0,182,268_AL_.jpg",
+		"movie_title" : "Before Sunrise (1995) ",
+		"movie_year" : "1995",
+		"genres" : [
+			"Drama",
+			"Romance"
+		],
+		"directors" : [
+			"Richard Linklater"
+		],
+		"stars" : [
+			"Ethan Hawke",
+			"Julie Delpy",
+			"Andrea Eckert"
+		],
+		"summary" : "A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.",
+		"link" : "http://www.imdb.com/title/tt0112471/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_207"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BNGNiNmU2YTMtZmU4OS00MjM0LTlmYWUtMjVlYjAzYjE2N2RjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Bourne Ultimatum (2007) ",
+		"movie_year" : "2007",
+		"genres" : [
+			"Action",
+			"Mystery",
+			"Thriller"
+		],
+		"directors" : [
+			"Paul Greengrass"
+		],
+		"stars" : [
+			"Matt Damon",
+			"Edgar Ramírez",
+			"Joan Allen"
+		],
+		"summary" : "Jason Bourne dodges a ruthless CIA official and his agents from a new assassination program while searching for the origins of his life as a trained killer.",
+		"link" : "http://www.imdb.com/title/tt0440963/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_208"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMzJiZDRmOWUtYjE2MS00Mjc1LTg1ZDYtNTQxYWJkZTg1OTM4XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Gandhi (1982) ",
+		"movie_year" : "1982",
+		"genres" : [
+			"Biography",
+			"Drama",
+			"History"
+		],
+		"directors" : [
+			"Richard Attenborough"
+		],
+		"stars" : [
+			"Ben Kingsley",
+			"John Gielgud",
+			"Candice Bergen"
+		],
+		"summary" : "Gandhi's character is fully explained as a man of nonviolence. Through his patience, he is able to drive the British out of the subcontinent. And the stubborn nature of Jinnah and his commitment towards Pakistan is portrayed.",
+		"link" : "http://www.imdb.com/title/tt0083987/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_209"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTcwNzc5MjI5Nl5BMl5BanBnXkFtZTYwNjIwMzc5._V1_UY268_CR4,0,182,268_AL_.jpg",
+		"movie_title" : "Diabolique (1955) ",
+		"movie_year" : "1955",
+		"genres" : [
+			"Crime",
+			"Drama",
+			"Horror"
+		],
+		"directors" : [
+			"Henri-Georges Clouzot"
+		],
+		"stars" : [
+			"Simone Signoret",
+			"Véra Clouzot",
+			"Paul Meurisse"
+		],
+		"summary" : "The wife of a cruel headmaster and his mistress conspire to kill him, but after the murder is committed, his body disappears, and strange events begin to plague the two women.",
+		"link" : "http://www.imdb.com/title/tt0046911/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_210"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTcwMTQ3NTMyNA@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Rocky (1976) ",
+		"movie_year" : "1976",
+		"genres" : [
+			"Drama",
+			"Sport"
+		],
+		"directors" : [
+			"John G. Avildsen"
+		],
+		"stars" : [
+			"Sylvester Stallone",
+			"Talia Shire",
+			"Burt Young"
+		],
+		"summary" : "Rocky Balboa, a small-time boxer, gets a supremely rare chance to fight the heavy-weight champion, Apollo Creed, in a bout in which he strives to go the distance for his self-respect.",
+		"link" : "http://www.imdb.com/title/tt0075148/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_211"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMGIwNTc0NmMtZTFlZC00ZmY4LWE1NDItODhkZGJkMzFjZjg1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY268_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Donnie Darko (2001) ",
+		"movie_year" : "2001",
+		"genres" : [
+			"Drama",
+			"Sci-Fi",
+			"Thriller"
+		],
+		"directors" : [
+			"Richard Kelly"
+		],
+		"stars" : [
+			"Jake Gyllenhaal",
+			"Jena Malone",
+			"Mary McDonnell"
+		],
+		"summary" : "A troubled teenager is plagued by visions of a large bunny rabbit that manipulates him to commit a series of crimes, after narrowly escaping a bizarre accident.",
+		"link" : "http://www.imdb.com/title/tt0246578/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_212"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY2MTk3MDQ1N15BMl5BanBnXkFtZTcwMzI4NzA2NQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Harry Potter and the Deathly Hallows: Part 2 (2011) ",
+		"movie_year" : "2011",
+		"genres" : [
+			"Adventure",
+			"Drama",
+			"Fantasy"
+		],
+		"directors" : [
+			"David Yates"
+		],
+		"stars" : [
+			"Daniel Radcliffe",
+			"Emma Watson",
+			"Rupert Grint"
+		],
+		"summary" : "Harry, Ron and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.",
+		"link" : "http://www.imdb.com/title/tt1201607/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_213"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4MTA0NjEzMF5BMl5BanBnXkFtZTgwMDg4NDYxMzE@._V1_UY268_CR5,0,182,268_AL_.jpg",
+		"movie_title" : "8½ (1963) ",
+		"movie_year" : "1963",
+		"genres" : [
+			"Drama",
+			"Fantasy"
+		],
+		"directors" : [
+			"Federico Fellini"
+		],
+		"stars" : [
+			"Marcello Mastroianni",
+			"Anouk Aimée",
+			"Claudia Cardinale"
+		],
+		"summary" : "A harried movie director retreats into his memories and fantasies.",
+		"link" : "http://www.imdb.com/title/tt0056801/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_214"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Monsters, Inc. (2001) ",
+		"movie_year" : "2001",
+		"genres" : [
+			"Animation",
+			"Adventure",
+			"Comedy"
+		],
+		"directors" : [
+			"Pete Docter",
+			"David Silverman"
+		],
+		"stars" : [
+			"Billy Crystal",
+			"John Goodman",
+			"Mary Gibbs"
+		],
+		"summary" : "In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, two monsters realize things may not be what they think.",
+		"link" : "http://www.imdb.com/title/tt0198781/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_215"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4NjE1MjM2Ml5BMl5BanBnXkFtZTgwODgzMjM5MzE@._V1_UY268_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Wizard of Oz (1939) ",
+		"movie_year" : "1939",
+		"genres" : [
+			"Adventure",
+			"Family",
+			"Fantasy"
+		],
+		"directors" : [
+			"Victor Fleming",
+			"George Cukor"
+		],
+		"stars" : [
+			"Judy Garland",
+			"Frank Morgan",
+			"Ray Bolger"
+		],
+		"summary" : "Dorothy Gale is swept away to a magical land in a tornado and embarks on a quest to see the Wizard who can help her return home.",
+		"link" : "http://www.imdb.com/title/tt0032138/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_216"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BODE1MDczNTUxOV5BMl5BanBnXkFtZTcwMTA0NDQyNA@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Terminator (1984) ",
+		"movie_year" : "1984",
+		"genres" : [
+			"Action",
+			"Sci-Fi"
+		],
+		"directors" : [
+			"James Cameron"
+		],
+		"stars" : [
+			"Arnold Schwarzenegger",
+			"Linda Hamilton",
+			"Michael Biehn"
+		],
+		"summary" : "A human-looking indestructible cyborg is sent from 2029 to 1984 to assassinate a waitress, whose unborn son will lead humanity in a war against the machines, while a soldier from that war is sent to protect her at all costs.",
+		"link" : "http://www.imdb.com/title/tt0088247/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_217"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU0MzQyNTExMV5BMl5BanBnXkFtZTgwMjA0Njk1MDE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Groundhog Day (1993) ",
+		"movie_year" : "1993",
+		"genres" : [
+			"Comedy",
+			"Fantasy",
+			"Romance"
+		],
+		"directors" : [
+			"Harold Ramis"
+		],
+		"stars" : [
+			"Bill Murray",
+			"Andie MacDowell",
+			"Chris Elliott"
+		],
+		"summary" : "A weatherman finds himself living the same day over and over again.",
+		"link" : "http://www.imdb.com/title/tt0107048/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_218"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BN2Y2OWU4MWMtNmIyMy00YzMyLWI0Y2ItMTcyZDc3MTdmZDU4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Twelve Monkeys (1995) ",
+		"movie_year" : "1995",
+		"genres" : [
+			"Mystery",
+			"Sci-Fi",
+			"Thriller"
+		],
+		"directors" : [
+			"Terry Gilliam"
+		],
+		"stars" : [
+			"Bruce Willis",
+			"Madeleine Stowe",
+			"Brad Pitt"
+		],
+		"summary" : "In a future world devastated by disease, a convict is sent back in time to gather information about the man-made virus that wiped out most of the human population on the planet.",
+		"link" : "http://www.imdb.com/title/tt0114746/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_219"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk1NTAxNzg3Nl5BMl5BanBnXkFtZTcwNjU4OTQwNw@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Best Years of Our Lives (1946) ",
+		"movie_year" : "1946",
+		"genres" : [
+			"Drama",
+			"Romance",
+			"War"
+		],
+		"directors" : [
+			"William Wyler"
+		],
+		"stars" : [
+			"Fredric March",
+			"Dana Andrews",
+			"Myrna Loy"
+		],
+		"summary" : "Three World War II veterans return home to small-town America to discover that they and their families have been irreparably changed.",
+		"link" : "http://www.imdb.com/title/tt0036868/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_220"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0Mjg2OTY3OV5BMl5BanBnXkFtZTcwNDA3Njk3OA@@._V1_UY268_CR9,0,182,268_AL_.jpg",
+		"movie_title" : "Infernal Affairs (2002) ",
+		"movie_year" : "2002",
+		"genres" : [
+			"Crime",
+			"Drama",
+			"Mystery"
+		],
+		"directors" : [
+			"Wai-Keung Lau",
+			"Alan Mak"
+		],
+		"stars" : [
+			"Andy Lau",
+			"Tony Chiu Wai Leung",
+			"Anthony Chau-Sang Wong"
+		],
+		"summary" : "A story between a mole in the police department and an undercover cop. Their objectives are the same: to find out who is the mole, and who is the cop.",
+		"link" : "http://www.imdb.com/title/tt0338564/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_221"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BNDcxODkyMjY4MF5BMl5BanBnXkFtZTgwOTk5NTc5MDE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Jaws (1975) ",
+		"movie_year" : "1975",
+		"genres" : [
+			"Adventure",
+			"Drama",
+			"Thriller"
+		],
+		"directors" : [
+			"Steven Spielberg"
+		],
+		"stars" : [
+			"Roy Scheider",
+			"Robert Shaw",
+			"Richard Dreyfuss"
+		],
+		"summary" : "When a gigantic great white shark begins to menace the small island community of Amity, a police chief, a marine scientist and a grizzled fisherman set out to stop it.",
+		"link" : "http://www.imdb.com/title/tt0073195/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_222"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Prisoners (2013) ",
+		"movie_year" : "2013",
+		"genres" : [
+			"Crime",
+			"Drama",
+			"Mystery"
+		],
+		"directors" : [
+			"Denis Villeneuve"
+		],
+		"stars" : [
+			"Hugh Jackman",
+			"Jake Gyllenhaal",
+			"Viola Davis"
+		],
+		"summary" : "When Keller Dover's daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts. But just how far will this desperate father go to protect his family?",
+		"link" : "http://www.imdb.com/title/tt1392214/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_223"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTcwNzk0MTQxMF5BMl5BanBnXkFtZTcwNjM5NTIwNA@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Strangers on a Train (1951) ",
+		"movie_year" : "1951",
+		"genres" : [
+			"Crime",
+			"Film-Noir",
+			"Thriller"
+		],
+		"directors" : [
+			"Alfred Hitchcock"
+		],
+		"stars" : [
+			"Farley Granger",
+			"Robert Walker",
+			"Ruth Roman"
+		],
+		"summary" : "A psychotic socialite confronts a pro tennis star with a theory on how two complete strangers can get away with murder - a theory that he plans to implement.",
+		"link" : "http://www.imdb.com/title/tt0044079/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_224"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTczNzkyMjQ4N15BMl5BanBnXkFtZTcwOTQ2NjU4Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Barry Lyndon (1975) ",
+		"movie_year" : "1975",
+		"genres" : [
+			"Adventure",
+			"Drama",
+			"History"
+		],
+		"directors" : [
+			"Stanley Kubrick"
+		],
+		"stars" : [
+			"Ryan O'Neal",
+			"Marisa Berenson",
+			"Patrick Magee"
+		],
+		"summary" : "An Irish rogue wins the heart of a rich widow and assumes her dead husband's aristocratic position in 18th-century England.",
+		"link" : "http://www.imdb.com/title/tt0072684/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_225"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY3OTAyOTMyM15BMl5BanBnXkFtZTcwNTMxMTI0MQ@@._V1_UY268_CR4,0,182,268_AL_.jpg",
+		"movie_title" : "La Haine (1995) ",
+		"movie_year" : "1995",
+		"genres" : [
+			"Crime",
+			"Drama"
+		],
+		"directors" : [
+			"Mathieu Kassovitz"
+		],
+		"stars" : [
+			"Vincent Cassel",
+			"Hubert Koundé",
+			"Saïd Taghmaoui"
+		],
+		"summary" : "24 hours in the lives of three young men in the French suburbs the day after a violent riot.",
+		"link" : "http://www.imdb.com/title/tt0113247/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_226"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BODZmYjMwNzEtNzVhNC00ZTRmLTk2M2UtNzE1MTQ2ZDAxNjc2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Sin City (2005) ",
+		"movie_year" : "2005",
+		"genres" : [
+			"Crime",
+			"Thriller"
+		],
+		"directors" : [
+			"Frank Miller",
+			"Robert Rodriguez"
+		],
+		"stars" : [
+			"Mickey Rourke",
+			"Clive Owen",
+			"Bruce Willis"
+		],
+		"summary" : "A film that explores the dark and miserable town, Basin City, and tells the story of three different people, all caught up in violent corruption.",
+		"link" : "http://www.imdb.com/title/tt0401792/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_227"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Catch Me If You Can (2002) ",
+		"movie_year" : "2002",
+		"genres" : [
+			"Biography",
+			"Crime",
+			"Drama"
+		],
+		"directors" : [
+			"Steven Spielberg"
+		],
+		"stars" : [
+			"Leonardo DiCaprio",
+			"Tom Hanks",
+			"Christopher Walken"
+		],
+		"summary" : "The true story of Frank Abagnale Jr. who, before his 19th birthday, successfully conned millions of dollars' worth of checks as a Pan Am pilot, doctor, and legal prosecutor.",
+		"link" : "http://www.imdb.com/title/tt0264464/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_228"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2MDMwNjEwNV5BMl5BanBnXkFtZTgwOTkxMzI0MzE@._V1_UY268_CR1,0,182,268_AL_.jpg",
+		"movie_title" : "Song of the Sea (2014) ",
+		"movie_year" : "2014",
+		"genres" : [
+			"Animation",
+			"Adventure",
+			"Family"
+		],
+		"directors" : [
+			"Tomm Moore"
+		],
+		"stars" : [
+			"David Rawle",
+			"Brendan Gleeson",
+			"Lisa Hannigan"
+		],
+		"summary" : "Ben, a young Irish boy, and his little sister Saoirse, a girl who can turn into a seal, go on an adventure to free the faeries and save the spirit world.",
+		"link" : "http://www.imdb.com/title/tt1865505/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_229"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUyMzg2MTQ2NV5BMl5BanBnXkFtZTcwMTQxODEzMQ@@._V1._CR10,26,332,469_UY268_CR4,0,182,268_AL_.jpg",
+		"movie_title" : "Kind Hearts and Coronets (1949) ",
+		"movie_year" : "1949",
+		"genres" : [
+			"Comedy",
+			"Crime"
+		],
+		"directors" : [
+			"Robert Hamer"
+		],
+		"stars" : [
+			"Dennis Price",
+			"Alec Guinness",
+			"Valerie Hobson"
+		],
+		"summary" : "A distant poor relative of the Duke of D'Ascoyne plots to inherit the title by murdering the eight other heirs who stand ahead of him in the line of succession.",
+		"link" : "http://www.imdb.com/title/tt0041546/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_230"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUyNTA3NTQ4OF5BMl5BanBnXkFtZTgwNDkzMjIwMDI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Battle of Algiers (1966) ",
+		"movie_year" : "1966",
+		"genres" : [
+			"Drama",
+			"War"
+		],
+		"directors" : [
+			"Gillo Pontecorvo"
+		],
+		"stars" : [
+			"Brahim Hadjadj",
+			"Jean Martin",
+			"Yacef Saadi"
+		],
+		"summary" : "In the 1950s, fear and violence escalate as the people of Algiers fight for independence from the French government.",
+		"link" : "http://www.imdb.com/title/tt0058946/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_231"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQyODg5Njc4N15BMl5BanBnXkFtZTgwMzExMjE3NzE@._V1_UY268_CR1,0,182,268_AL_.jpg",
+		"movie_title" : "Deadpool (2016) ",
+		"movie_year" : "2016",
+		"genres" : [
+			"Action",
+			"Adventure",
+			"Comedy"
+		],
+		"directors" : [
+			"Tim Miller"
+		],
+		"stars" : [
+			"Ryan Reynolds",
+			"Morena Baccarin",
+			"T.J. Miller"
+		],
+		"summary" : "A fast-talking mercenary with a morbid sense of humor is subjected to a rogue experiment that leaves him with accelerated healing powers and a quest for revenge.",
+		"link" : "http://www.imdb.com/title/tt1431045/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_232"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjU4NDExNDM1NF5BMl5BanBnXkFtZTgwMDIyMTgxNzE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Revenant (2015) ",
+		"movie_year" : "2015",
+		"genres" : [
+			"Adventure",
+			"Drama",
+			"Thriller"
+		],
+		"directors" : [
+			"Alejandro G. Iñárritu"
+		],
+		"stars" : [
+			"Leonardo DiCaprio",
+			"Tom Hardy",
+			"Will Poulter"
+		],
+		"summary" : "A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team.",
+		"link" : "http://www.imdb.com/title/tt1663202/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_233"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BODExZmE2ZWItYTIzOC00MzI1LTgyNTktMDBhNmFhY2Y4OTQ3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Dog Day Afternoon (1975) ",
+		"movie_year" : "1975",
+		"genres" : [
+			"Crime",
+			"Drama"
+		],
+		"directors" : [
+			"Sidney Lumet"
+		],
+		"stars" : [
+			"Al Pacino",
+			"John Cazale",
+			"Penelope Allen"
+		],
+		"summary" : "A man robs a bank to pay for his lover's operation; it turns into a hostage situation and a media circus.",
+		"link" : "http://www.imdb.com/title/tt0072890/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_234"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAyNDM4MTc2N15BMl5BanBnXkFtZTYwNDk0Mjc3._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Pirates of the Caribbean: The Curse of the Black Pearl (2003) ",
+		"movie_year" : "2003",
+		"genres" : [
+			"Action",
+			"Adventure",
+			"Fantasy"
+		],
+		"directors" : [
+			"Gore Verbinski"
+		],
+		"stars" : [
+			"Johnny Depp",
+			"Geoffrey Rush",
+			"Orlando Bloom"
+		],
+		"summary" : "Blacksmith Will Turner teams up with eccentric pirate 'Captain' Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead.",
+		"link" : "http://www.imdb.com/title/tt0325980/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_235"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE0NDUzMDcyOF5BMl5BanBnXkFtZTcwNzAxMTA2Mw@@._V1_UY268_CR2,0,182,268_AL_.jpg",
+		"movie_title" : "Yip Man (2008) ",
+		"movie_year" : "2008",
+		"genres" : [
+			"Action",
+			"Biography",
+			"Drama"
+		],
+		"directors" : [
+			"Wilson Yip"
+		],
+		"stars" : [
+			"Donnie Yen",
+			"Simon Yam",
+			"Siu-Wong Fan"
+		],
+		"summary" : "During the Japanese invasion of 1937, when a wealthy martial artist is forced to leave his home and work to support his family, he reluctantly agrees to train others in the art of Wing Chun for self-defense.",
+		"link" : "http://www.imdb.com/title/tt1220719/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_236"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM5OTMyMjIxOV5BMl5BanBnXkFtZTcwNzU4MjIwNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Help (2011) ",
+		"movie_year" : "2011",
+		"genres" : [
+			"Drama"
+		],
+		"directors" : [
+			"Tate Taylor"
+		],
+		"stars" : [
+			"Emma Stone",
+			"Viola Davis",
+			"Octavia Spencer"
+		],
+		"summary" : "An aspiring author during the civil rights movement of the 1960s decides to write a book detailing the African American maids' point of view on the white families for which they work, and the hardships they go through on a daily basis.",
+		"link" : "http://www.imdb.com/title/tt1454029/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_237"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc5NjY4MjUwNF5BMl5BanBnXkFtZTgwODM3NzM5MzE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Gangs of Wasseypur (2012) ",
+		"movie_year" : "2012",
+		"genres" : [
+			"Action",
+			"Crime",
+			"Drama"
+		],
+		"directors" : [
+			"Anurag Kashyap"
+		],
+		"stars" : [
+			"Manoj Bajpayee",
+			"Richa Chadha",
+			"Nawazuddin Siddiqui"
+		],
+		"summary" : "A clash between Sultan and Shahid Khan leads to the expulsion of Khan from Wasseypur, and ignites a deadly blood feud spanning three generations.",
+		"link" : "http://www.imdb.com/title/tt1954470/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_238"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BNDkwNTEyMzkzNl5BMl5BanBnXkFtZTgwNTAwNzk3MjE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Imitation Game (2014) ",
+		"movie_year" : "2014",
+		"genres" : [
+			"Biography",
+			"Drama",
+			"Thriller"
+		],
+		"directors" : [
+			"Morten Tyldum"
+		],
+		"stars" : [
+			"Benedict Cumberbatch",
+			"Keira Knightley",
+			"Matthew Goode"
+		],
+		"summary" : "During World War II, mathematician Alan Turing tries to crack the enigma code with help from fellow mathematicians.",
+		"link" : "http://www.imdb.com/title/tt2084970/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_239"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc2MTQ3MDA1Nl5BMl5BanBnXkFtZTgwODA3OTI4NjE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Martian (2015) ",
+		"movie_year" : "2015",
+		"genres" : [
+			"Adventure",
+			"Drama",
+			"Sci-Fi"
+		],
+		"directors" : [
+			"Ridley Scott"
+		],
+		"stars" : [
+			"Matt Damon",
+			"Jessica Chastain",
+			"Kristen Wiig"
+		],
+		"summary" : "An astronaut becomes stranded on Mars after his team assume him dead, and must rely on his ingenuity to find a way to signal to Earth that he is alive.",
+		"link" : "http://www.imdb.com/title/tt3659388/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_240"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg1ODgzODA1Nl5BMl5BanBnXkFtZTcwNTI0MzU3Mg@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Roman Holiday (1953) ",
+		"movie_year" : "1953",
+		"genres" : [
+			"Comedy",
+			"Romance"
+		],
+		"directors" : [
+			"William Wyler"
+		],
+		"stars" : [
+			"Gregory Peck",
+			"Audrey Hepburn",
+			"Eddie Albert"
+		],
+		"summary" : "A bored and sheltered princess escapes her guardians and falls in love with an American newsman in Rome.",
+		"link" : "http://www.imdb.com/title/tt0046250/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_241"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BOTUyODUwNjc0NV5BMl5BanBnXkFtZTcwMTk0MTcyMQ@@._V1_UY268_CR4,0,182,268_AL_.jpg",
+		"movie_title" : "Fanny and Alexander (1982) ",
+		"movie_year" : "1982",
+		"genres" : [
+			"Drama"
+		],
+		"directors" : [
+			"Ingmar Bergman"
+		],
+		"stars" : [
+			"Bertil Guve",
+			"Pernilla Allwin",
+			"Kristina Adolphson"
+		],
+		"summary" : "Two young Swedish children experience the many comedies and tragedies of their family, the Ekdahls.",
+		"link" : "http://www.imdb.com/title/tt0083922/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_242"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU4MTUyMTc3MV5BMl5BanBnXkFtZTYwOTg4Mzk5._V1_UY268_CR3,0,182,268_AL_.jpg",
+		"movie_title" : "Castle in the Sky (1986) ",
+		"movie_year" : "1986",
+		"genres" : [
+			"Animation",
+			"Adventure",
+			"Family"
+		],
+		"directors" : [
+			"Hayao Miyazaki"
+		],
+		"stars" : [
+			"Anna Paquin",
+			"James Van Der Beek",
+			"Cloris Leachman"
+		],
+		"summary" : "A young boy and a girl with a magic crystal must race against pirates and foreign agents in a search for a legendary floating castle.",
+		"link" : "http://www.imdb.com/title/tt0092067/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_243"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTAzODAxMzg1MzZeQTJeQWpwZ15BbWU3MDgwMzE5ODk@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "A Fistful of Dollars (1964) ",
+		"movie_year" : "1964",
+		"genres" : [
+			"Action",
+			"Drama",
+			"Western"
+		],
+		"directors" : [
+			"Sergio Leone"
+		],
+		"stars" : [
+			"Clint Eastwood",
+			"Gian Maria Volontè",
+			"Marianne Koch"
+		],
+		"summary" : "A wandering gunfighter plays two rival families against each other in a town torn apart by greed, pride, and revenge.",
+		"link" : "http://www.imdb.com/title/tt0058461/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_244"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTAwMjU5OTgxNjZeQTJeQWpwZ15BbWU4MDUxNDYxODEx._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Guardians of the Galaxy (2014) ",
+		"movie_year" : "2014",
+		"genres" : [
+			"Action",
+			"Adventure",
+			"Sci-Fi"
+		],
+		"directors" : [
+			"James Gunn"
+		],
+		"stars" : [
+			"Chris Pratt",
+			"Vin Diesel",
+			"Bradley Cooper"
+		],
+		"summary" : "A group of intergalactic criminals are forced to work together to stop a fanatical warrior from taking control of the universe.",
+		"link" : "http://www.imdb.com/title/tt2015381/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_245"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMzU5MjEwMTg2Nl5BMl5BanBnXkFtZTcwNzM3MTYxNA@@._V1_UY268_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The King's Speech (2010) ",
+		"movie_year" : "2010",
+		"genres" : [
+			"Biography",
+			"Drama"
+		],
+		"directors" : [
+			"Tom Hooper"
+		],
+		"stars" : [
+			"Colin Firth",
+			"Geoffrey Rush",
+			"Helena Bonham Carter"
+		],
+		"summary" : "The story of King George VI of the United Kingdom of Great Britain and Northern Ireland, his impromptu ascension to the throne and the speech therapist who helped the unsure monarch become worthy of it.",
+		"link" : "http://www.imdb.com/title/tt1504320/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_246"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk2NTI1MTU4N15BMl5BanBnXkFtZTcwODg0OTY0Nw@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "The Avengers (2012) ",
+		"movie_year" : "2012",
+		"genres" : [
+			"Action",
+			"Sci-Fi",
+			"Thriller"
+		],
+		"directors" : [
+			"Joss Whedon"
+		],
+		"stars" : [
+			"Robert Downey Jr.",
+			"Chris Evans",
+			"Scarlett Johansson"
+		],
+		"summary" : "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity.",
+		"link" : "http://www.imdb.com/title/tt0848228/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_247"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BNDYxNWUzZmYtOGQxMC00MTdkLTkxOTctYzkyOGIwNWQxZjhmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Lagaan: Once Upon a Time in India (2001) ",
+		"movie_year" : "2001",
+		"genres" : [
+			"Adventure",
+			"Drama",
+			"Musical"
+		],
+		"directors" : [
+			"Ashutosh Gowariker"
+		],
+		"stars" : [
+			"Aamir Khan",
+			"Gracy Singh",
+			"Rachel Shelley"
+		],
+		"summary" : "The people of a small village in Victorian India stake their future on a game of cricket against their ruthless British rulers.",
+		"link" : "http://www.imdb.com/title/tt0169102/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_248"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkyMDgwODY0OV5BMl5BanBnXkFtZTgwODI5NTQ5MTE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Beauty and the Beast (1991) ",
+		"movie_year" : "1991",
+		"genres" : [
+			"Animation",
+			"Family",
+			"Fantasy"
+		],
+		"directors" : [
+			"Gary Trousdale",
+			"Kirk Wise"
+		],
+		"stars" : [
+			"Paige O'Hara",
+			"Robby Benson",
+			"Jesse Corti"
+		],
+		"summary" : "Belle, whose father is imprisoned by the Beast, offers herself instead, unaware her captor to be an enchanted prince.",
+		"link" : "http://www.imdb.com/title/tt0101414/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_249"
+	},
+	{
+		"poster_url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTEwNjg2MjM2ODFeQTJeQWpwZ15BbWU4MDQ1MDU5OTEx._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"movie_title" : "Young Frankenstein (1974) ",
+		"movie_year" : "1974",
+		"genres" : [
+			"Comedy"
+		],
+		"directors" : [
+			"Mel Brooks"
+		],
+		"stars" : [
+			"Gene Wilder",
+			"Madeline Kahn",
+			"Marty Feldman"
+		],
+		"summary" : "An American grandson of the infamous scientist, struggling to prove that he is not as insane as people believe, is invited to Transylvania, where he discovers the process that reanimates a dead body.",
+		"link" : "http://www.imdb.com/title/tt0072431/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=1DSR59DWCNCT63MC5MP6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_250"
+	}
+]}
