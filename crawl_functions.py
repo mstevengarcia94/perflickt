@@ -55,7 +55,7 @@ def get_movie_data(index, source_url, fw, tab_level):
     director_count = 0
     # get directors
     # for outer_span in soup.findAll('span', {'itemprop': 'director'}):
-    for h4 in soup.findAll(text=re.compile("(Director)")):
+    for h4 in soup.findAll(text="Director:"):
         # if the element contains "director" or "directors"
         # then iterate through all pertinent links
         #director = outer_span.a.span.text
