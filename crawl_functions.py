@@ -21,13 +21,15 @@ def get_movie_data(index, source_url, fw, tab_level):
         item_count += 1
 
     # get movie title and year
-    for h1 in soup.findAll('h1', {'itemprop': 'name'}):
-        movie_title = h1.text
+    #for h1 in soup.findAll('h1', {'itemprop': 'name'}):
+    for title_wrapper in soup.findAll('div', {'class': 'title_wrapper'}):
+        movie_title = title_wrapper.h1.text
         # save movie title to json here
         write_json_item(item_count, 'movie_title', movie_title, fw, tab_level)
         item_count += 1
 
-        movie_year = h1.span.a.text
+        #movie_year = h1.span.a.text
+        movie_year = title_wrapper.h1.span.a.text
         # save movie year to json here
         write_json_item(item_count, 'movie_year', movie_year, fw, tab_level)
         item_count += 1
