@@ -54,8 +54,12 @@ def get_movie_data(index, source_url, fw, tab_level):
     tab_level += 1
     director_count = 0
     # get directors
-    for outer_span in soup.findAll('span', {'itemprop': 'director'}):
-        director = outer_span.a.span.text
+    # for outer_span in soup.findAll('span', {'itemprop': 'director'}):
+    for h4 in soup.findAll(text=re.compile("Director")):
+        # if the element contains "director" or "directors"
+        # then iterate through all pertinent links
+        #director = outer_span.a.span.text
+        director = h4.parent.a.text
         # save director to json here
         write_json_item(director_count, None, director, fw, tab_level)
         director_count += 1
