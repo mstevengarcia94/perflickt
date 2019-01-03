@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import requests
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, SoupStrainer
 
 def get_movie_data(index, source_url, fw, tab_level):
     source_code = requests.get(source_url)
@@ -21,14 +21,12 @@ def get_movie_data(index, source_url, fw, tab_level):
         item_count += 1
 
     # get movie title and year
-    #for h1 in soup.findAll('h1', {'itemprop': 'name'}):
     for title_wrapper in soup.findAll('div', {'class': 'title_wrapper'}):
         movie_title = title_wrapper.h1.text
         # save movie title to json here
         write_json_item(item_count, 'movie_title', movie_title, fw, tab_level)
         item_count += 1
 
-        #movie_year = h1.span.a.text
         movie_year = title_wrapper.h1.span.a.text
         # save movie year to json here
         write_json_item(item_count, 'movie_year', movie_year, fw, tab_level)
@@ -54,12 +52,14 @@ def get_movie_data(index, source_url, fw, tab_level):
     tab_level += 1
     director_count = 0
     # get directors
-    # for outer_span in soup.findAll('span', {'itemprop': 'director'}):
-    for h4 in soup.findAll(text="Director:"):
+    for outer_span in soup.findAll('span', {'itemprop': 'director'}):
+    #just_subnav_items = SoupStrainer(class_="subnav_item_main")
+    #soup = BeautifulSoup(plain_text, "lxml", parse_only=just_subnav_items)
+    #for h4 in soup.findAll(text="Director:"):
         # if the element contains "director" or "directors"
         # then iterate through all pertinent links
-        #director = outer_span.a.span.text
-        director = h4.parent.a.text
+        director = outer_span.a.span.text
+        #director = h4.parent.a.text
         # save director to json here
         write_json_item(director_count, None, director, fw, tab_level)
         director_count += 1
