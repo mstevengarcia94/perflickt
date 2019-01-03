@@ -37,11 +37,17 @@ def get_movie_data(index, source_url, fw, tab_level):
     tab_level += 1
     genre_count = 0
     # get genres for this movie
-    for span in soup.findAll('span', {'itemprop': 'genre'}):
-        genre = span.text
-        # save genres to json here
-        write_json_item(genre_count, None, genre, fw, tab_level)
-        genre_count += 1
+    just_subtext = SoupStrainer(class_="subtext")
+    subSoup = BeautifulSoup(plain_text, "lxml", parse_only=just_subtext)
+
+
+    #for span in soup.findAll('span', {'itemprop': 'genre'}):
+    for a in subSoup.findAll('a'):
+        if a.get('title') != "See more release dates":
+            genre = a.text
+            # save genres to json here
+            write_json_item(genre_count, None, genre, fw, tab_level)
+            genre_count += 1
 
     tab_level -= 1
     write_json_close_bracket('close_array', fw, tab_level)
@@ -55,7 +61,6 @@ def get_movie_data(index, source_url, fw, tab_level):
     just_credit_summary_items = SoupStrainer(class_="credit_summary_item")
     credSoup = BeautifulSoup(plain_text, "lxml", parse_only=just_credit_summary_items)
 
-    #for outer_span in soup.findAll('span', {'itemprop': 'director'}):
     for h4 in credSoup.findAll('h4', {'class': 'inline'}):
         # if the element contains "director" or "directors"
         if h4.text == "Director:":
@@ -78,9 +83,10 @@ def get_movie_data(index, source_url, fw, tab_level):
         if cred_type == "Stars:":
             star = a.text
 
-            # save actor to json here
-            write_json_item(star_count, None, star, fw, tab_level)
-            star_count += 1
+            if star != "See full cast & crew":
+                # save actor to json here
+                write_json_item(star_count, None, star, fw, tab_level)
+                star_count += 1
 
 
     '''for outer_span in soup.findAll('span', {'itemprop': 'actors'}):
