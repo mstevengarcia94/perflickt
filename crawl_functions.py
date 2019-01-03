@@ -72,11 +72,22 @@ def get_movie_data(index, source_url, fw, tab_level):
     tab_level += 1
     star_count = 0
     # get stars
-    for outer_span in soup.findAll('span', {'itemprop': 'actors'}):
+    for a in credSoup.findAll('a'):
+        # if the element contains "director" or "directors"
+        cred_type = a.parent.h4.text
+        if cred_type == "Stars:":
+            star = a.text
+
+            # save actor to json here
+            write_json_item(star_count, None, star, fw, tab_level)
+            star_count += 1
+
+
+    '''for outer_span in soup.findAll('span', {'itemprop': 'actors'}):
         star = outer_span.a.span.text
         # save actor to json here
         write_json_item(star_count, None, star, fw, tab_level)
-        star_count += 1
+        star_count += 1'''
     tab_level -= 1
     write_json_close_bracket('close_array', fw, tab_level)
     item_count += 1
