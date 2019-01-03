@@ -52,17 +52,17 @@ def get_movie_data(index, source_url, fw, tab_level):
     tab_level += 1
     director_count = 0
     # get directors
-    for outer_span in soup.findAll('span', {'itemprop': 'director'}):
-    #just_subnav_items = SoupStrainer(class_="subnav_item_main")
-    #soup = BeautifulSoup(plain_text, "lxml", parse_only=just_subnav_items)
-    #for h4 in soup.findAll(text="Director:"):
+    just_credit_summary_items = SoupStrainer(class_="credit_summary_item")
+    credSoup = BeautifulSoup(plain_text, "lxml", parse_only=just_credit_summary_items)
+
+    #for outer_span in soup.findAll('span', {'itemprop': 'director'}):
+    for h4 in credSoup.findAll('h4', {'class': 'inline'}):
         # if the element contains "director" or "directors"
-        # then iterate through all pertinent links
-        director = outer_span.a.span.text
-        #director = h4.parent.a.text
-        # save director to json here
-        write_json_item(director_count, None, director, fw, tab_level)
-        director_count += 1
+        if h4.text == "Director:":
+            director = h4.parent.a.text
+            # save director to json here
+            write_json_item(director_count, None, director, fw, tab_level)
+            director_count += 1
     tab_level -= 1
     write_json_close_bracket('close_array', fw, tab_level)
     item_count += 1
